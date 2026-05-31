@@ -1,0 +1,3001 @@
+member_id,emirate,condition,total_cost_aed
+MBR-00000,Ajman,Diabetes,41886
+MBR-00001,Abu Dhabi,Diabetes + Cardiac,66807
+MBR-00002,Dubai,Hypertension,21497
+MBR-00003,Other,Diabetes + Hypertension,31962
+MBR-00004,Dubai,Hypertension,23456
+MBR-00005,Abu Dhabi,Diabetes,30603
+MBR-00006,Dubai,Diabetes + Cardiac,80202
+MBR-00007,Abu Dhabi,Diabetes,32830
+MBR-00008,Dubai,Diabetes + Cardiac,94590
+MBR-00009,Abu Dhabi,Diabetes + Hypertension,48016
+MBR-00010,Abu Dhabi,Diabetes,29771
+MBR-00011,Other,Hypertension,12644
+MBR-00012,Dubai,Cardiac,41563
+MBR-00013,Dubai,Hypertension,23573
+MBR-00014,Dubai,Diabetes + Hypertension,61571
+MBR-00015,Other,Hypertension,20226
+MBR-00016,Ajman,Diabetes,22238
+MBR-00017,Abu Dhabi,Diabetes + Hypertension,31555
+MBR-00018,Dubai,Hypertension,22543
+MBR-00019,Abu Dhabi,Hypertension,19470
+MBR-00020,Abu Dhabi,Diabetes + Cardiac,71185
+MBR-00021,Dubai,Diabetes + Hypertension,44116
+MBR-00022,Other,Diabetes + Cardiac,71678
+MBR-00023,Dubai,Cardiac,71839
+MBR-00024,Abu Dhabi,Hypertension,21115
+MBR-00025,Dubai,Diabetes,41938
+MBR-00026,Dubai,Hypertension,20339
+MBR-00027,Ajman,Hypertension,16934
+MBR-00028,Abu Dhabi,Cardiac,75141
+MBR-00029,Abu Dhabi,Cardiac,56874
+MBR-00030,Other,Cardiac,57086
+MBR-00031,Abu Dhabi,Cardiac,40212
+MBR-00032,Abu Dhabi,Diabetes,30980
+MBR-00033,Abu Dhabi,Cardiac,52850
+MBR-00034,Ajman,Diabetes + Hypertension,51333
+MBR-00035,Abu Dhabi,Diabetes,36025
+MBR-00036,Dubai,Hypertension,30247
+MBR-00037,Other,Cardiac,68389
+MBR-00038,Dubai,Diabetes,27116
+MBR-00039,Abu Dhabi,Diabetes,34278
+MBR-00040,Ajman,Diabetes,40361
+MBR-00041,Dubai,Diabetes + Cardiac,74981
+MBR-00042,Other,Diabetes,42043
+MBR-00043,Dubai,Cardiac,54262
+MBR-00044,Other,Diabetes + Hypertension,36345
+MBR-00045,Dubai,Diabetes,33171
+MBR-00046,Dubai,Cardiac,59375
+MBR-00047,Abu Dhabi,Diabetes + Hypertension,43110
+MBR-00048,Dubai,Diabetes,35796
+MBR-00049,Dubai,Diabetes + Cardiac,74637
+MBR-00050,Other,Diabetes,31675
+MBR-00051,Other,Cardiac,67455
+MBR-00052,Other,Diabetes + Hypertension,41531
+MBR-00053,Dubai,Diabetes + Cardiac,68167
+MBR-00054,Dubai,Diabetes + Hypertension,37653
+MBR-00055,Abu Dhabi,Diabetes,21521
+MBR-00056,Dubai,Hypertension,18749
+MBR-00057,Dubai,Diabetes,34981
+MBR-00058,Dubai,Hypertension,20442
+MBR-00059,Abu Dhabi,Diabetes,27353
+MBR-00060,Abu Dhabi,Diabetes,30993
+MBR-00061,Abu Dhabi,Diabetes + Hypertension,52582
+MBR-00062,Dubai,Cardiac,42572
+MBR-00063,Abu Dhabi,Diabetes + Hypertension,53099
+MBR-00064,Dubai,Diabetes + Hypertension,62360
+MBR-00065,Other,Diabetes,23458
+MBR-00066,Abu Dhabi,Cardiac,51723
+MBR-00067,Dubai,Hypertension,23757
+MBR-00068,Dubai,Diabetes + Hypertension,45953
+MBR-00069,Dubai,Hypertension,25193
+MBR-00070,Other,Diabetes + Hypertension,35579
+MBR-00071,Dubai,Cardiac,66220
+MBR-00072,Abu Dhabi,Cardiac,60379
+MBR-00073,Dubai,Diabetes + Hypertension,31129
+MBR-00074,Abu Dhabi,Cardiac,62049
+MBR-00075,Ajman,Hypertension,18601
+MBR-00076,Abu Dhabi,Hypertension,14106
+MBR-00077,Ajman,Diabetes,35792
+MBR-00078,Other,Hypertension,14985
+MBR-00079,Dubai,Diabetes + Cardiac,86246
+MBR-00080,Ajman,Diabetes,23781
+MBR-00081,Dubai,Cardiac,44836
+MBR-00082,Abu Dhabi,Diabetes + Cardiac,67099
+MBR-00083,Other,Diabetes,31118
+MBR-00084,Dubai,Hypertension,23796
+MBR-00085,Ajman,Diabetes,30380
+MBR-00086,Other,Diabetes,28689
+MBR-00087,Dubai,Diabetes + Cardiac,73437
+MBR-00088,Abu Dhabi,Diabetes + Hypertension,44873
+MBR-00089,Dubai,Diabetes,30800
+MBR-00090,Dubai,Diabetes + Cardiac,59270
+MBR-00091,Ajman,Diabetes,32245
+MBR-00092,Abu Dhabi,Diabetes + Cardiac,71257
+MBR-00093,Other,Hypertension,19491
+MBR-00094,Abu Dhabi,Cardiac,71330
+MBR-00095,Other,Cardiac,55443
+MBR-00096,Dubai,Diabetes + Hypertension,45602
+MBR-00097,Other,Hypertension,14148
+MBR-00098,Abu Dhabi,Diabetes,39560
+MBR-00099,Abu Dhabi,Diabetes,28713
+MBR-00100,Dubai,Diabetes,31042
+MBR-00101,Abu Dhabi,Diabetes + Cardiac,78678
+MBR-00102,Ajman,Diabetes,29407
+MBR-00103,Abu Dhabi,Diabetes + Cardiac,59849
+MBR-00104,Ajman,Diabetes + Hypertension,31872
+MBR-00105,Dubai,Cardiac,63152
+MBR-00106,Ajman,Hypertension,19503
+MBR-00107,Dubai,Cardiac,62430
+MBR-00108,Abu Dhabi,Cardiac,64456
+MBR-00109,Abu Dhabi,Cardiac,51433
+MBR-00110,Dubai,Diabetes + Cardiac,65461
+MBR-00111,Abu Dhabi,Hypertension,19853
+MBR-00112,Abu Dhabi,Hypertension,14655
+MBR-00113,Other,Hypertension,20638
+MBR-00114,Abu Dhabi,Diabetes,24360
+MBR-00115,Other,Hypertension,24928
+MBR-00116,Abu Dhabi,Hypertension,19874
+MBR-00117,Abu Dhabi,Diabetes + Cardiac,86395
+MBR-00118,Abu Dhabi,Hypertension,28001
+MBR-00119,Other,Diabetes,28631
+MBR-00120,Dubai,Hypertension,25110
+MBR-00121,Abu Dhabi,Cardiac,57560
+MBR-00122,Abu Dhabi,Hypertension,18969
+MBR-00123,Other,Diabetes + Hypertension,36656
+MBR-00124,Other,Diabetes + Cardiac,61580
+MBR-00125,Abu Dhabi,Hypertension,19122
+MBR-00126,Dubai,Diabetes + Hypertension,52086
+MBR-00127,Other,Diabetes + Cardiac,75832
+MBR-00128,Other,Diabetes + Cardiac,60996
+MBR-00129,Other,Hypertension,17014
+MBR-00130,Dubai,Diabetes + Hypertension,53239
+MBR-00131,Dubai,Cardiac,56574
+MBR-00132,Dubai,Diabetes,33978
+MBR-00133,Abu Dhabi,Diabetes,23795
+MBR-00134,Other,Diabetes + Cardiac,71620
+MBR-00135,Abu Dhabi,Hypertension,20976
+MBR-00136,Dubai,Hypertension,17151
+MBR-00137,Abu Dhabi,Cardiac,52860
+MBR-00138,Abu Dhabi,Hypertension,31712
+MBR-00139,Abu Dhabi,Hypertension,29172
+MBR-00140,Ajman,Diabetes + Cardiac,71832
+MBR-00141,Dubai,Hypertension,21781
+MBR-00142,Abu Dhabi,Diabetes,35736
+MBR-00143,Dubai,Diabetes + Hypertension,55173
+MBR-00144,Dubai,Diabetes,28328
+MBR-00145,Abu Dhabi,Diabetes + Cardiac,62597
+MBR-00146,Abu Dhabi,Hypertension,23768
+MBR-00147,Abu Dhabi,Diabetes + Hypertension,33292
+MBR-00148,Dubai,Cardiac,58959
+MBR-00149,Dubai,Diabetes + Hypertension,36713
+MBR-00150,Abu Dhabi,Diabetes + Cardiac,85081
+MBR-00151,Other,Diabetes,31830
+MBR-00152,Abu Dhabi,Diabetes,14295
+MBR-00153,Dubai,Diabetes,23339
+MBR-00154,Other,Hypertension,22117
+MBR-00155,Other,Diabetes + Cardiac,83263
+MBR-00156,Dubai,Hypertension,15280
+MBR-00157,Other,Diabetes,37737
+MBR-00158,Abu Dhabi,Diabetes + Cardiac,93169
+MBR-00159,Abu Dhabi,Diabetes + Cardiac,87093
+MBR-00160,Dubai,Diabetes + Hypertension,47887
+MBR-00161,Dubai,Diabetes,22759
+MBR-00162,Ajman,Hypertension,24145
+MBR-00163,Abu Dhabi,Diabetes + Hypertension,43187
+MBR-00164,Dubai,Diabetes + Cardiac,62027
+MBR-00165,Abu Dhabi,Diabetes + Cardiac,52834
+MBR-00166,Dubai,Diabetes,34936
+MBR-00167,Abu Dhabi,Diabetes,16150
+MBR-00168,Abu Dhabi,Diabetes,25667
+MBR-00169,Dubai,Hypertension,20131
+MBR-00170,Dubai,Hypertension,18725
+MBR-00171,Abu Dhabi,Diabetes + Cardiac,84897
+MBR-00172,Abu Dhabi,Diabetes,35408
+MBR-00173,Ajman,Diabetes,34132
+MBR-00174,Dubai,Cardiac,82366
+MBR-00175,Other,Diabetes,27315
+MBR-00176,Other,Diabetes + Hypertension,55634
+MBR-00177,Dubai,Diabetes,15958
+MBR-00178,Other,Diabetes + Hypertension,45810
+MBR-00179,Dubai,Cardiac,51433
+MBR-00180,Abu Dhabi,Hypertension,20299
+MBR-00181,Abu Dhabi,Diabetes,33917
+MBR-00182,Dubai,Hypertension,24306
+MBR-00183,Abu Dhabi,Diabetes,38332
+MBR-00184,Other,Cardiac,60157
+MBR-00185,Other,Diabetes + Hypertension,44700
+MBR-00186,Dubai,Diabetes + Hypertension,36800
+MBR-00187,Dubai,Cardiac,67868
+MBR-00188,Abu Dhabi,Hypertension,23130
+MBR-00189,Ajman,Diabetes + Hypertension,38383
+MBR-00190,Abu Dhabi,Cardiac,54550
+MBR-00191,Dubai,Hypertension,19012
+MBR-00192,Dubai,Diabetes + Hypertension,41546
+MBR-00193,Other,Hypertension,24460
+MBR-00194,Dubai,Diabetes + Hypertension,56293
+MBR-00195,Other,Diabetes,31170
+MBR-00196,Dubai,Hypertension,27401
+MBR-00197,Other,Diabetes,21267
+MBR-00198,Dubai,Diabetes + Hypertension,35796
+MBR-00199,Other,Hypertension,22650
+MBR-00200,Dubai,Cardiac,49810
+MBR-00201,Abu Dhabi,Hypertension,14614
+MBR-00202,Ajman,Hypertension,17456
+MBR-00203,Dubai,Hypertension,16476
+MBR-00204,Abu Dhabi,Diabetes + Hypertension,40433
+MBR-00205,Abu Dhabi,Cardiac,50808
+MBR-00206,Abu Dhabi,Diabetes,39767
+MBR-00207,Other,Cardiac,53946
+MBR-00208,Other,Diabetes + Hypertension,38781
+MBR-00209,Other,Diabetes,24829
+MBR-00210,Abu Dhabi,Diabetes,39994
+MBR-00211,Dubai,Hypertension,21655
+MBR-00212,Dubai,Hypertension,25161
+MBR-00213,Other,Diabetes,23764
+MBR-00214,Dubai,Hypertension,20814
+MBR-00215,Other,Hypertension,22132
+MBR-00216,Ajman,Diabetes,32486
+MBR-00217,Dubai,Diabetes + Hypertension,39732
+MBR-00218,Abu Dhabi,Hypertension,17158
+MBR-00219,Other,Hypertension,22631
+MBR-00220,Ajman,Hypertension,20789
+MBR-00221,Abu Dhabi,Hypertension,16031
+MBR-00222,Ajman,Diabetes + Hypertension,54567
+MBR-00223,Dubai,Cardiac,65612
+MBR-00224,Abu Dhabi,Cardiac,51309
+MBR-00225,Abu Dhabi,Cardiac,53377
+MBR-00226,Abu Dhabi,Diabetes,31426
+MBR-00227,Abu Dhabi,Diabetes + Hypertension,42529
+MBR-00228,Dubai,Diabetes,39423
+MBR-00229,Dubai,Cardiac,62348
+MBR-00230,Abu Dhabi,Diabetes + Hypertension,46515
+MBR-00231,Dubai,Cardiac,70645
+MBR-00232,Dubai,Diabetes,35388
+MBR-00233,Abu Dhabi,Hypertension,22808
+MBR-00234,Abu Dhabi,Diabetes,21308
+MBR-00235,Abu Dhabi,Diabetes,21819
+MBR-00236,Abu Dhabi,Diabetes + Hypertension,44318
+MBR-00237,Abu Dhabi,Cardiac,76792
+MBR-00238,Abu Dhabi,Cardiac,49097
+MBR-00239,Other,Diabetes,35713
+MBR-00240,Dubai,Hypertension,23945
+MBR-00241,Other,Cardiac,60977
+MBR-00242,Abu Dhabi,Diabetes + Cardiac,83465
+MBR-00243,Dubai,Diabetes + Cardiac,54743
+MBR-00244,Ajman,Cardiac,51136
+MBR-00245,Ajman,Diabetes,34344
+MBR-00246,Dubai,Diabetes + Hypertension,44720
+MBR-00247,Other,Diabetes + Cardiac,71891
+MBR-00248,Other,Diabetes + Cardiac,88640
+MBR-00249,Abu Dhabi,Diabetes,31288
+MBR-00250,Abu Dhabi,Diabetes,30910
+MBR-00251,Abu Dhabi,Diabetes + Cardiac,86456
+MBR-00252,Dubai,Hypertension,19699
+MBR-00253,Other,Hypertension,23716
+MBR-00254,Other,Hypertension,21417
+MBR-00255,Dubai,Diabetes + Hypertension,57691
+MBR-00256,Ajman,Hypertension,24235
+MBR-00257,Abu Dhabi,Hypertension,19153
+MBR-00258,Dubai,Hypertension,27769
+MBR-00259,Abu Dhabi,Diabetes,34151
+MBR-00260,Other,Diabetes + Hypertension,40891
+MBR-00261,Dubai,Diabetes + Hypertension,34176
+MBR-00262,Other,Diabetes + Hypertension,45444
+MBR-00263,Abu Dhabi,Diabetes,21889
+MBR-00264,Abu Dhabi,Diabetes + Cardiac,64052
+MBR-00265,Other,Diabetes + Hypertension,38115
+MBR-00266,Abu Dhabi,Hypertension,21310
+MBR-00267,Ajman,Hypertension,23935
+MBR-00268,Dubai,Diabetes,36957
+MBR-00269,Abu Dhabi,Diabetes,25323
+MBR-00270,Abu Dhabi,Diabetes,34288
+MBR-00271,Dubai,Diabetes + Cardiac,66403
+MBR-00272,Abu Dhabi,Hypertension,25384
+MBR-00273,Abu Dhabi,Cardiac,65080
+MBR-00274,Abu Dhabi,Cardiac,52828
+MBR-00275,Abu Dhabi,Diabetes + Hypertension,39430
+MBR-00276,Abu Dhabi,Cardiac,54094
+MBR-00277,Abu Dhabi,Cardiac,45032
+MBR-00278,Other,Diabetes,21359
+MBR-00279,Dubai,Hypertension,19583
+MBR-00280,Abu Dhabi,Diabetes,29747
+MBR-00281,Abu Dhabi,Diabetes,39777
+MBR-00282,Abu Dhabi,Hypertension,24493
+MBR-00283,Dubai,Diabetes,27801
+MBR-00284,Ajman,Diabetes + Hypertension,41168
+MBR-00285,Other,Diabetes + Hypertension,42279
+MBR-00286,Abu Dhabi,Diabetes,37303
+MBR-00287,Abu Dhabi,Hypertension,18113
+MBR-00288,Abu Dhabi,Diabetes + Hypertension,43583
+MBR-00289,Ajman,Diabetes + Cardiac,55468
+MBR-00290,Abu Dhabi,Hypertension,20490
+MBR-00291,Dubai,Diabetes + Cardiac,58799
+MBR-00292,Other,Diabetes + Cardiac,59744
+MBR-00293,Dubai,Diabetes,40661
+MBR-00294,Abu Dhabi,Cardiac,52864
+MBR-00295,Other,Cardiac,65825
+MBR-00296,Dubai,Diabetes + Hypertension,60246
+MBR-00297,Dubai,Diabetes,31812
+MBR-00298,Other,Diabetes + Cardiac,75426
+MBR-00299,Dubai,Hypertension,20448
+MBR-00300,Dubai,Diabetes + Hypertension,48689
+MBR-00301,Dubai,Cardiac,58344
+MBR-00302,Dubai,Diabetes + Hypertension,48668
+MBR-00303,Dubai,Diabetes + Hypertension,54507
+MBR-00304,Abu Dhabi,Diabetes,38855
+MBR-00305,Abu Dhabi,Diabetes,29609
+MBR-00306,Abu Dhabi,Diabetes,29113
+MBR-00307,Abu Dhabi,Cardiac,63921
+MBR-00308,Ajman,Diabetes,30208
+MBR-00309,Other,Hypertension,19537
+MBR-00310,Dubai,Cardiac,60163
+MBR-00311,Dubai,Diabetes + Hypertension,42804
+MBR-00312,Other,Diabetes + Hypertension,43068
+MBR-00313,Dubai,Cardiac,50266
+MBR-00314,Dubai,Diabetes,29407
+MBR-00315,Abu Dhabi,Diabetes,34073
+MBR-00316,Ajman,Cardiac,67799
+MBR-00317,Abu Dhabi,Diabetes,31358
+MBR-00318,Abu Dhabi,Hypertension,19987
+MBR-00319,Dubai,Diabetes + Cardiac,68462
+MBR-00320,Other,Hypertension,17768
+MBR-00321,Dubai,Hypertension,15979
+MBR-00322,Abu Dhabi,Diabetes,28158
+MBR-00323,Abu Dhabi,Diabetes,30899
+MBR-00324,Abu Dhabi,Cardiac,65039
+MBR-00325,Ajman,Diabetes,29478
+MBR-00326,Other,Diabetes,32154
+MBR-00327,Abu Dhabi,Hypertension,27515
+MBR-00328,Abu Dhabi,Diabetes + Hypertension,42133
+MBR-00329,Ajman,Hypertension,22503
+MBR-00330,Other,Hypertension,14049
+MBR-00331,Abu Dhabi,Diabetes + Cardiac,77466
+MBR-00332,Abu Dhabi,Hypertension,20079
+MBR-00333,Abu Dhabi,Cardiac,63930
+MBR-00334,Dubai,Hypertension,13585
+MBR-00335,Dubai,Diabetes + Cardiac,80891
+MBR-00336,Abu Dhabi,Diabetes,27921
+MBR-00337,Dubai,Diabetes,28806
+MBR-00338,Dubai,Hypertension,19588
+MBR-00339,Abu Dhabi,Diabetes,40148
+MBR-00340,Dubai,Cardiac,63955
+MBR-00341,Abu Dhabi,Diabetes + Hypertension,49201
+MBR-00342,Dubai,Hypertension,14764
+MBR-00343,Dubai,Diabetes,34974
+MBR-00344,Dubai,Cardiac,57626
+MBR-00345,Abu Dhabi,Hypertension,19447
+MBR-00346,Abu Dhabi,Hypertension,20077
+MBR-00347,Dubai,Hypertension,19397
+MBR-00348,Ajman,Cardiac,64930
+MBR-00349,Dubai,Hypertension,20422
+MBR-00350,Abu Dhabi,Diabetes + Hypertension,45304
+MBR-00351,Dubai,Hypertension,24606
+MBR-00352,Dubai,Hypertension,22045
+MBR-00353,Dubai,Diabetes,31136
+MBR-00354,Abu Dhabi,Diabetes + Hypertension,57833
+MBR-00355,Dubai,Diabetes,30351
+MBR-00356,Dubai,Hypertension,23130
+MBR-00357,Other,Cardiac,61087
+MBR-00358,Abu Dhabi,Diabetes,42083
+MBR-00359,Dubai,Diabetes,38169
+MBR-00360,Other,Diabetes,28725
+MBR-00361,Abu Dhabi,Diabetes + Hypertension,46996
+MBR-00362,Abu Dhabi,Diabetes + Hypertension,56023
+MBR-00363,Other,Hypertension,24352
+MBR-00364,Dubai,Hypertension,28474
+MBR-00365,Dubai,Cardiac,53391
+MBR-00366,Abu Dhabi,Diabetes,41118
+MBR-00367,Other,Diabetes,35721
+MBR-00368,Other,Cardiac,67411
+MBR-00369,Other,Hypertension,25948
+MBR-00370,Abu Dhabi,Diabetes,35834
+MBR-00371,Dubai,Diabetes,36069
+MBR-00372,Ajman,Diabetes + Cardiac,72151
+MBR-00373,Other,Cardiac,46221
+MBR-00374,Dubai,Hypertension,25633
+MBR-00375,Other,Hypertension,25613
+MBR-00376,Dubai,Diabetes,35539
+MBR-00377,Other,Diabetes,45709
+MBR-00378,Abu Dhabi,Diabetes + Hypertension,58070
+MBR-00379,Dubai,Diabetes,22791
+MBR-00380,Abu Dhabi,Diabetes + Hypertension,41135
+MBR-00381,Other,Hypertension,21650
+MBR-00382,Other,Diabetes + Cardiac,80236
+MBR-00383,Dubai,Diabetes,29290
+MBR-00384,Ajman,Diabetes,38676
+MBR-00385,Dubai,Diabetes,32616
+MBR-00386,Dubai,Cardiac,67140
+MBR-00387,Dubai,Diabetes,41045
+MBR-00388,Dubai,Cardiac,63681
+MBR-00389,Other,Diabetes,26150
+MBR-00390,Dubai,Hypertension,22108
+MBR-00391,Dubai,Cardiac,45903
+MBR-00392,Abu Dhabi,Hypertension,26546
+MBR-00393,Dubai,Hypertension,24906
+MBR-00394,Other,Cardiac,63571
+MBR-00395,Abu Dhabi,Diabetes + Cardiac,67431
+MBR-00396,Dubai,Diabetes + Hypertension,50701
+MBR-00397,Abu Dhabi,Diabetes + Hypertension,54168
+MBR-00398,Other,Diabetes,45775
+MBR-00399,Abu Dhabi,Diabetes,35801
+MBR-00400,Ajman,Diabetes,29480
+MBR-00401,Dubai,Cardiac,44997
+MBR-00402,Dubai,Hypertension,15724
+MBR-00403,Abu Dhabi,Diabetes,26968
+MBR-00404,Dubai,Hypertension,16083
+MBR-00405,Dubai,Diabetes + Cardiac,80950
+MBR-00406,Dubai,Diabetes + Cardiac,59949
+MBR-00407,Abu Dhabi,Diabetes,36541
+MBR-00408,Abu Dhabi,Diabetes,25570
+MBR-00409,Dubai,Diabetes + Cardiac,68549
+MBR-00410,Abu Dhabi,Diabetes,29776
+MBR-00411,Other,Diabetes,35169
+MBR-00412,Abu Dhabi,Hypertension,26434
+MBR-00413,Ajman,Hypertension,20853
+MBR-00414,Dubai,Hypertension,26015
+MBR-00415,Abu Dhabi,Hypertension,21619
+MBR-00416,Abu Dhabi,Diabetes,22830
+MBR-00417,Abu Dhabi,Hypertension,17722
+MBR-00418,Dubai,Hypertension,19135
+MBR-00419,Abu Dhabi,Diabetes,31806
+MBR-00420,Abu Dhabi,Cardiac,69232
+MBR-00421,Abu Dhabi,Cardiac,60572
+MBR-00422,Abu Dhabi,Diabetes + Hypertension,44025
+MBR-00423,Dubai,Diabetes,30543
+MBR-00424,Abu Dhabi,Diabetes + Hypertension,59675
+MBR-00425,Other,Diabetes,18567
+MBR-00426,Dubai,Diabetes,30844
+MBR-00427,Other,Hypertension,8901
+MBR-00428,Abu Dhabi,Diabetes,39648
+MBR-00429,Other,Diabetes + Hypertension,44254
+MBR-00430,Ajman,Cardiac,60317
+MBR-00431,Ajman,Cardiac,47496
+MBR-00432,Abu Dhabi,Diabetes + Cardiac,84722
+MBR-00433,Dubai,Diabetes,24706
+MBR-00434,Dubai,Diabetes + Hypertension,39628
+MBR-00435,Ajman,Diabetes + Cardiac,67221
+MBR-00436,Abu Dhabi,Diabetes + Hypertension,42483
+MBR-00437,Dubai,Diabetes + Hypertension,48822
+MBR-00438,Other,Diabetes,38781
+MBR-00439,Other,Diabetes + Hypertension,56926
+MBR-00440,Other,Diabetes,28438
+MBR-00441,Dubai,Diabetes + Cardiac,69254
+MBR-00442,Other,Hypertension,25211
+MBR-00443,Abu Dhabi,Diabetes + Hypertension,38541
+MBR-00444,Abu Dhabi,Diabetes,31190
+MBR-00445,Other,Diabetes + Cardiac,74908
+MBR-00446,Other,Hypertension,20655
+MBR-00447,Abu Dhabi,Hypertension,22245
+MBR-00448,Abu Dhabi,Hypertension,18842
+MBR-00449,Other,Diabetes + Hypertension,32084
+MBR-00450,Dubai,Diabetes,33020
+MBR-00451,Abu Dhabi,Diabetes,33144
+MBR-00452,Other,Diabetes,35867
+MBR-00453,Abu Dhabi,Hypertension,15817
+MBR-00454,Dubai,Diabetes,36679
+MBR-00455,Abu Dhabi,Hypertension,15753
+MBR-00456,Abu Dhabi,Hypertension,21619
+MBR-00457,Abu Dhabi,Hypertension,23187
+MBR-00458,Abu Dhabi,Hypertension,22398
+MBR-00459,Abu Dhabi,Diabetes,22766
+MBR-00460,Ajman,Cardiac,52236
+MBR-00461,Dubai,Diabetes,35857
+MBR-00462,Dubai,Diabetes + Hypertension,42116
+MBR-00463,Abu Dhabi,Hypertension,20794
+MBR-00464,Dubai,Hypertension,18523
+MBR-00465,Other,Diabetes + Hypertension,46941
+MBR-00466,Abu Dhabi,Diabetes,34710
+MBR-00467,Dubai,Diabetes,38226
+MBR-00468,Dubai,Hypertension,21735
+MBR-00469,Ajman,Hypertension,26353
+MBR-00470,Abu Dhabi,Diabetes,26532
+MBR-00471,Abu Dhabi,Cardiac,59298
+MBR-00472,Abu Dhabi,Diabetes,34408
+MBR-00473,Other,Diabetes + Hypertension,45263
+MBR-00474,Ajman,Cardiac,68119
+MBR-00475,Other,Hypertension,19723
+MBR-00476,Abu Dhabi,Diabetes + Hypertension,49719
+MBR-00477,Abu Dhabi,Diabetes + Hypertension,36912
+MBR-00478,Dubai,Diabetes,38706
+MBR-00479,Other,Diabetes,33253
+MBR-00480,Dubai,Diabetes + Cardiac,63735
+MBR-00481,Dubai,Diabetes,40958
+MBR-00482,Dubai,Hypertension,19784
+MBR-00483,Other,Hypertension,28708
+MBR-00484,Abu Dhabi,Diabetes + Cardiac,84453
+MBR-00485,Other,Hypertension,15268
+MBR-00486,Dubai,Diabetes,36691
+MBR-00487,Abu Dhabi,Diabetes + Cardiac,96004
+MBR-00488,Dubai,Diabetes + Hypertension,53636
+MBR-00489,Dubai,Cardiac,43298
+MBR-00490,Dubai,Hypertension,23825
+MBR-00491,Other,Diabetes + Cardiac,50732
+MBR-00492,Dubai,Hypertension,24946
+MBR-00493,Dubai,Diabetes + Cardiac,56138
+MBR-00494,Other,Cardiac,70949
+MBR-00495,Abu Dhabi,Diabetes + Hypertension,49289
+MBR-00496,Ajman,Cardiac,40622
+MBR-00497,Dubai,Diabetes + Cardiac,55200
+MBR-00498,Dubai,Hypertension,25112
+MBR-00499,Abu Dhabi,Diabetes,21804
+MBR-00500,Abu Dhabi,Diabetes + Hypertension,47547
+MBR-00501,Abu Dhabi,Hypertension,27829
+MBR-00502,Abu Dhabi,Hypertension,19933
+MBR-00503,Other,Diabetes + Hypertension,37094
+MBR-00504,Dubai,Hypertension,22125
+MBR-00505,Other,Hypertension,21787
+MBR-00506,Other,Hypertension,20172
+MBR-00507,Abu Dhabi,Cardiac,65532
+MBR-00508,Dubai,Hypertension,17027
+MBR-00509,Dubai,Hypertension,27303
+MBR-00510,Dubai,Diabetes,26958
+MBR-00511,Abu Dhabi,Hypertension,22806
+MBR-00512,Abu Dhabi,Diabetes,40231
+MBR-00513,Dubai,Hypertension,19785
+MBR-00514,Dubai,Diabetes + Cardiac,90135
+MBR-00515,Ajman,Hypertension,27258
+MBR-00516,Abu Dhabi,Cardiac,51351
+MBR-00517,Other,Cardiac,55576
+MBR-00518,Dubai,Diabetes,39086
+MBR-00519,Ajman,Cardiac,65852
+MBR-00520,Abu Dhabi,Diabetes + Hypertension,46658
+MBR-00521,Dubai,Diabetes + Hypertension,43852
+MBR-00522,Abu Dhabi,Diabetes,30560
+MBR-00523,Abu Dhabi,Cardiac,59398
+MBR-00524,Dubai,Diabetes,30217
+MBR-00525,Abu Dhabi,Diabetes + Cardiac,57021
+MBR-00526,Dubai,Diabetes + Cardiac,73486
+MBR-00527,Dubai,Diabetes,22788
+MBR-00528,Dubai,Diabetes + Hypertension,38197
+MBR-00529,Other,Hypertension,24359
+MBR-00530,Dubai,Diabetes + Hypertension,39267
+MBR-00531,Abu Dhabi,Diabetes,31097
+MBR-00532,Dubai,Diabetes,24972
+MBR-00533,Abu Dhabi,Hypertension,20763
+MBR-00534,Dubai,Diabetes,28617
+MBR-00535,Ajman,Cardiac,37192
+MBR-00536,Other,Diabetes + Hypertension,36149
+MBR-00537,Abu Dhabi,Diabetes + Hypertension,47752
+MBR-00538,Dubai,Cardiac,42612
+MBR-00539,Other,Diabetes,25295
+MBR-00540,Dubai,Cardiac,64968
+MBR-00541,Dubai,Diabetes + Hypertension,49142
+MBR-00542,Abu Dhabi,Diabetes + Hypertension,62412
+MBR-00543,Abu Dhabi,Hypertension,24698
+MBR-00544,Abu Dhabi,Hypertension,25370
+MBR-00545,Abu Dhabi,Diabetes,27153
+MBR-00546,Dubai,Hypertension,22491
+MBR-00547,Other,Diabetes,40182
+MBR-00548,Other,Diabetes + Hypertension,47043
+MBR-00549,Dubai,Cardiac,80539
+MBR-00550,Dubai,Hypertension,23089
+MBR-00551,Abu Dhabi,Hypertension,20877
+MBR-00552,Dubai,Hypertension,20951
+MBR-00553,Other,Diabetes + Hypertension,61353
+MBR-00554,Dubai,Hypertension,11114
+MBR-00555,Other,Cardiac,42801
+MBR-00556,Abu Dhabi,Cardiac,45292
+MBR-00557,Other,Diabetes + Cardiac,74388
+MBR-00558,Ajman,Hypertension,20332
+MBR-00559,Other,Diabetes + Hypertension,51903
+MBR-00560,Dubai,Diabetes,32665
+MBR-00561,Abu Dhabi,Diabetes + Hypertension,42142
+MBR-00562,Abu Dhabi,Diabetes + Hypertension,60042
+MBR-00563,Dubai,Diabetes,40341
+MBR-00564,Other,Diabetes,45442
+MBR-00565,Dubai,Diabetes + Cardiac,64140
+MBR-00566,Dubai,Diabetes,33384
+MBR-00567,Dubai,Diabetes,34557
+MBR-00568,Other,Diabetes,38091
+MBR-00569,Other,Cardiac,56788
+MBR-00570,Dubai,Hypertension,25286
+MBR-00571,Abu Dhabi,Diabetes + Cardiac,73393
+MBR-00572,Ajman,Hypertension,16020
+MBR-00573,Abu Dhabi,Diabetes,28874
+MBR-00574,Ajman,Diabetes,35068
+MBR-00575,Abu Dhabi,Cardiac,61241
+MBR-00576,Dubai,Diabetes,33818
+MBR-00577,Abu Dhabi,Diabetes,36976
+MBR-00578,Other,Cardiac,81238
+MBR-00579,Abu Dhabi,Diabetes,30844
+MBR-00580,Dubai,Hypertension,24795
+MBR-00581,Dubai,Diabetes,26260
+MBR-00582,Ajman,Hypertension,23746
+MBR-00583,Abu Dhabi,Diabetes,27117
+MBR-00584,Dubai,Hypertension,23543
+MBR-00585,Dubai,Diabetes,20068
+MBR-00586,Dubai,Hypertension,13994
+MBR-00587,Dubai,Diabetes,33562
+MBR-00588,Abu Dhabi,Hypertension,21247
+MBR-00589,Abu Dhabi,Diabetes,40353
+MBR-00590,Dubai,Diabetes + Cardiac,60970
+MBR-00591,Abu Dhabi,Diabetes + Cardiac,75257
+MBR-00592,Dubai,Diabetes + Hypertension,43325
+MBR-00593,Dubai,Diabetes,35828
+MBR-00594,Dubai,Diabetes,29948
+MBR-00595,Dubai,Cardiac,66035
+MBR-00596,Other,Hypertension,19409
+MBR-00597,Abu Dhabi,Cardiac,54334
+MBR-00598,Dubai,Diabetes + Cardiac,68682
+MBR-00599,Dubai,Diabetes + Hypertension,45663
+MBR-00600,Abu Dhabi,Hypertension,22489
+MBR-00601,Abu Dhabi,Diabetes + Cardiac,65694
+MBR-00602,Abu Dhabi,Hypertension,21154
+MBR-00603,Dubai,Hypertension,22930
+MBR-00604,Other,Diabetes,24217
+MBR-00605,Other,Diabetes,44467
+MBR-00606,Abu Dhabi,Diabetes,40924
+MBR-00607,Abu Dhabi,Cardiac,66082
+MBR-00608,Abu Dhabi,Hypertension,20156
+MBR-00609,Ajman,Diabetes,33764
+MBR-00610,Abu Dhabi,Diabetes + Cardiac,72373
+MBR-00611,Dubai,Hypertension,23415
+MBR-00612,Dubai,Diabetes + Hypertension,78194
+MBR-00613,Dubai,Hypertension,22518
+MBR-00614,Dubai,Diabetes,37797
+MBR-00615,Other,Diabetes + Cardiac,82293
+MBR-00616,Dubai,Diabetes,25485
+MBR-00617,Abu Dhabi,Diabetes + Cardiac,86272
+MBR-00618,Abu Dhabi,Hypertension,23810
+MBR-00619,Other,Diabetes,21705
+MBR-00620,Other,Cardiac,60689
+MBR-00621,Ajman,Diabetes + Cardiac,77589
+MBR-00622,Dubai,Hypertension,32838
+MBR-00623,Other,Cardiac,71241
+MBR-00624,Dubai,Diabetes + Hypertension,44642
+MBR-00625,Dubai,Diabetes,37582
+MBR-00626,Other,Diabetes,26824
+MBR-00627,Dubai,Cardiac,33984
+MBR-00628,Abu Dhabi,Hypertension,17713
+MBR-00629,Dubai,Hypertension,20653
+MBR-00630,Abu Dhabi,Hypertension,23221
+MBR-00631,Dubai,Diabetes + Cardiac,75491
+MBR-00632,Other,Diabetes,43867
+MBR-00633,Dubai,Cardiac,60385
+MBR-00634,Dubai,Diabetes + Hypertension,40205
+MBR-00635,Abu Dhabi,Cardiac,50445
+MBR-00636,Dubai,Cardiac,63160
+MBR-00637,Ajman,Diabetes,24073
+MBR-00638,Dubai,Hypertension,18687
+MBR-00639,Abu Dhabi,Diabetes + Hypertension,51697
+MBR-00640,Abu Dhabi,Diabetes,27290
+MBR-00641,Abu Dhabi,Hypertension,22382
+MBR-00642,Dubai,Diabetes + Hypertension,48225
+MBR-00643,Abu Dhabi,Diabetes,32239
+MBR-00644,Abu Dhabi,Hypertension,20242
+MBR-00645,Other,Hypertension,14631
+MBR-00646,Other,Cardiac,58182
+MBR-00647,Other,Cardiac,63384
+MBR-00648,Ajman,Diabetes,24394
+MBR-00649,Abu Dhabi,Diabetes + Hypertension,49590
+MBR-00650,Dubai,Diabetes + Hypertension,44917
+MBR-00651,Dubai,Cardiac,65655
+MBR-00652,Dubai,Diabetes + Hypertension,63559
+MBR-00653,Abu Dhabi,Hypertension,24490
+MBR-00654,Dubai,Hypertension,23655
+MBR-00655,Other,Hypertension,20693
+MBR-00656,Abu Dhabi,Diabetes + Hypertension,37335
+MBR-00657,Abu Dhabi,Cardiac,65344
+MBR-00658,Dubai,Diabetes + Cardiac,65866
+MBR-00659,Abu Dhabi,Hypertension,22705
+MBR-00660,Dubai,Hypertension,21011
+MBR-00661,Abu Dhabi,Diabetes,37985
+MBR-00662,Abu Dhabi,Diabetes,30786
+MBR-00663,Abu Dhabi,Diabetes,29171
+MBR-00664,Abu Dhabi,Hypertension,29798
+MBR-00665,Dubai,Diabetes,26339
+MBR-00666,Dubai,Diabetes,35666
+MBR-00667,Other,Diabetes + Cardiac,75232
+MBR-00668,Abu Dhabi,Diabetes,31690
+MBR-00669,Abu Dhabi,Diabetes + Cardiac,88904
+MBR-00670,Dubai,Hypertension,22498
+MBR-00671,Abu Dhabi,Hypertension,26484
+MBR-00672,Dubai,Cardiac,52336
+MBR-00673,Dubai,Diabetes,33259
+MBR-00674,Other,Hypertension,20305
+MBR-00675,Dubai,Hypertension,20615
+MBR-00676,Abu Dhabi,Hypertension,26671
+MBR-00677,Other,Diabetes,21834
+MBR-00678,Abu Dhabi,Diabetes,30314
+MBR-00679,Abu Dhabi,Diabetes,26385
+MBR-00680,Dubai,Hypertension,26546
+MBR-00681,Dubai,Diabetes + Hypertension,49366
+MBR-00682,Dubai,Diabetes,32558
+MBR-00683,Dubai,Diabetes + Cardiac,58669
+MBR-00684,Dubai,Cardiac,58306
+MBR-00685,Dubai,Diabetes,33936
+MBR-00686,Dubai,Diabetes,33154
+MBR-00687,Abu Dhabi,Diabetes,34102
+MBR-00688,Dubai,Hypertension,14139
+MBR-00689,Other,Hypertension,25366
+MBR-00690,Dubai,Cardiac,55712
+MBR-00691,Abu Dhabi,Diabetes,42811
+MBR-00692,Other,Diabetes,28809
+MBR-00693,Dubai,Cardiac,56022
+MBR-00694,Other,Diabetes + Hypertension,40174
+MBR-00695,Dubai,Diabetes + Hypertension,34899
+MBR-00696,Abu Dhabi,Diabetes + Cardiac,83582
+MBR-00697,Dubai,Hypertension,28249
+MBR-00698,Dubai,Diabetes,32577
+MBR-00699,Other,Diabetes,30344
+MBR-00700,Dubai,Diabetes,34062
+MBR-00701,Ajman,Hypertension,25358
+MBR-00702,Dubai,Hypertension,18040
+MBR-00703,Dubai,Hypertension,25256
+MBR-00704,Other,Diabetes,24005
+MBR-00705,Abu Dhabi,Cardiac,54787
+MBR-00706,Dubai,Diabetes + Hypertension,28741
+MBR-00707,Dubai,Hypertension,16596
+MBR-00708,Ajman,Cardiac,41363
+MBR-00709,Abu Dhabi,Diabetes + Hypertension,50654
+MBR-00710,Abu Dhabi,Diabetes,33562
+MBR-00711,Dubai,Cardiac,60096
+MBR-00712,Dubai,Hypertension,21265
+MBR-00713,Dubai,Diabetes,27752
+MBR-00714,Other,Diabetes + Hypertension,52483
+MBR-00715,Ajman,Diabetes,31391
+MBR-00716,Abu Dhabi,Hypertension,19528
+MBR-00717,Ajman,Hypertension,24978
+MBR-00718,Dubai,Diabetes,22132
+MBR-00719,Dubai,Hypertension,15842
+MBR-00720,Abu Dhabi,Cardiac,69945
+MBR-00721,Abu Dhabi,Cardiac,51943
+MBR-00722,Dubai,Diabetes + Cardiac,90494
+MBR-00723,Dubai,Diabetes + Cardiac,69971
+MBR-00724,Dubai,Cardiac,74560
+MBR-00725,Dubai,Cardiac,52849
+MBR-00726,Other,Diabetes,42992
+MBR-00727,Abu Dhabi,Diabetes,41664
+MBR-00728,Dubai,Diabetes,34799
+MBR-00729,Abu Dhabi,Hypertension,14776
+MBR-00730,Abu Dhabi,Hypertension,20582
+MBR-00731,Ajman,Diabetes + Hypertension,49711
+MBR-00732,Abu Dhabi,Hypertension,23207
+MBR-00733,Dubai,Diabetes + Hypertension,53220
+MBR-00734,Abu Dhabi,Diabetes,25021
+MBR-00735,Dubai,Diabetes,33681
+MBR-00736,Dubai,Diabetes + Hypertension,38561
+MBR-00737,Dubai,Diabetes + Hypertension,50257
+MBR-00738,Dubai,Diabetes + Cardiac,61586
+MBR-00739,Dubai,Diabetes,22267
+MBR-00740,Dubai,Hypertension,14737
+MBR-00741,Dubai,Hypertension,21656
+MBR-00742,Abu Dhabi,Hypertension,22658
+MBR-00743,Dubai,Diabetes,35308
+MBR-00744,Abu Dhabi,Cardiac,27295
+MBR-00745,Dubai,Diabetes,30742
+MBR-00746,Ajman,Hypertension,24547
+MBR-00747,Dubai,Cardiac,52541
+MBR-00748,Dubai,Cardiac,50458
+MBR-00749,Dubai,Hypertension,20574
+MBR-00750,Other,Cardiac,46130
+MBR-00751,Dubai,Diabetes + Cardiac,56358
+MBR-00752,Abu Dhabi,Hypertension,17824
+MBR-00753,Dubai,Hypertension,23176
+MBR-00754,Ajman,Cardiac,56192
+MBR-00755,Other,Diabetes,39406
+MBR-00756,Dubai,Diabetes,31615
+MBR-00757,Other,Diabetes + Hypertension,43465
+MBR-00758,Dubai,Hypertension,19094
+MBR-00759,Abu Dhabi,Cardiac,52137
+MBR-00760,Abu Dhabi,Cardiac,74912
+MBR-00761,Dubai,Diabetes,31453
+MBR-00762,Abu Dhabi,Diabetes + Cardiac,92645
+MBR-00763,Abu Dhabi,Cardiac,44377
+MBR-00764,Abu Dhabi,Hypertension,21079
+MBR-00765,Other,Cardiac,42158
+MBR-00766,Dubai,Diabetes,27178
+MBR-00767,Dubai,Hypertension,16937
+MBR-00768,Dubai,Hypertension,22713
+MBR-00769,Abu Dhabi,Cardiac,66475
+MBR-00770,Abu Dhabi,Hypertension,20177
+MBR-00771,Dubai,Hypertension,16401
+MBR-00772,Abu Dhabi,Cardiac,80222
+MBR-00773,Dubai,Diabetes + Cardiac,77570
+MBR-00774,Dubai,Diabetes,31677
+MBR-00775,Dubai,Diabetes + Hypertension,50998
+MBR-00776,Dubai,Diabetes + Cardiac,68909
+MBR-00777,Abu Dhabi,Diabetes + Hypertension,55100
+MBR-00778,Abu Dhabi,Diabetes,22037
+MBR-00779,Abu Dhabi,Hypertension,20146
+MBR-00780,Dubai,Diabetes,35779
+MBR-00781,Ajman,Diabetes + Cardiac,97647
+MBR-00782,Dubai,Cardiac,41796
+MBR-00783,Dubai,Diabetes,32864
+MBR-00784,Abu Dhabi,Diabetes + Hypertension,32738
+MBR-00785,Abu Dhabi,Diabetes + Cardiac,56420
+MBR-00786,Other,Diabetes + Cardiac,76149
+MBR-00787,Other,Diabetes + Cardiac,73742
+MBR-00788,Dubai,Diabetes + Hypertension,47970
+MBR-00789,Ajman,Hypertension,15714
+MBR-00790,Abu Dhabi,Hypertension,16738
+MBR-00791,Dubai,Cardiac,52606
+MBR-00792,Dubai,Hypertension,17429
+MBR-00793,Abu Dhabi,Diabetes,34884
+MBR-00794,Abu Dhabi,Hypertension,25606
+MBR-00795,Abu Dhabi,Diabetes + Cardiac,55030
+MBR-00796,Dubai,Diabetes + Hypertension,47599
+MBR-00797,Abu Dhabi,Hypertension,20038
+MBR-00798,Dubai,Diabetes,30455
+MBR-00799,Dubai,Diabetes + Cardiac,83797
+MBR-00800,Abu Dhabi,Hypertension,25326
+MBR-00801,Other,Cardiac,65550
+MBR-00802,Dubai,Diabetes,30456
+MBR-00803,Abu Dhabi,Diabetes + Hypertension,43789
+MBR-00804,Abu Dhabi,Diabetes + Hypertension,35677
+MBR-00805,Ajman,Cardiac,61793
+MBR-00806,Other,Cardiac,44370
+MBR-00807,Dubai,Hypertension,14314
+MBR-00808,Abu Dhabi,Hypertension,16775
+MBR-00809,Dubai,Diabetes + Hypertension,49493
+MBR-00810,Abu Dhabi,Diabetes,29004
+MBR-00811,Abu Dhabi,Cardiac,66684
+MBR-00812,Dubai,Diabetes + Hypertension,47250
+MBR-00813,Other,Diabetes,33255
+MBR-00814,Other,Hypertension,22527
+MBR-00815,Dubai,Cardiac,66079
+MBR-00816,Ajman,Cardiac,73077
+MBR-00817,Abu Dhabi,Diabetes + Hypertension,51343
+MBR-00818,Abu Dhabi,Diabetes + Cardiac,63508
+MBR-00819,Dubai,Hypertension,13173
+MBR-00820,Other,Hypertension,24710
+MBR-00821,Other,Hypertension,25471
+MBR-00822,Ajman,Diabetes,27282
+MBR-00823,Dubai,Hypertension,27170
+MBR-00824,Dubai,Diabetes,33651
+MBR-00825,Other,Hypertension,13375
+MBR-00826,Other,Diabetes,23480
+MBR-00827,Abu Dhabi,Cardiac,61666
+MBR-00828,Other,Diabetes,35098
+MBR-00829,Ajman,Diabetes + Hypertension,32916
+MBR-00830,Other,Diabetes + Hypertension,41148
+MBR-00831,Abu Dhabi,Hypertension,23728
+MBR-00832,Abu Dhabi,Diabetes,30395
+MBR-00833,Abu Dhabi,Hypertension,27240
+MBR-00834,Ajman,Hypertension,19749
+MBR-00835,Dubai,Diabetes,36495
+MBR-00836,Other,Cardiac,69739
+MBR-00837,Other,Hypertension,19672
+MBR-00838,Other,Diabetes + Hypertension,29852
+MBR-00839,Dubai,Cardiac,66850
+MBR-00840,Abu Dhabi,Cardiac,56248
+MBR-00841,Dubai,Diabetes + Cardiac,46482
+MBR-00842,Other,Diabetes,30381
+MBR-00843,Ajman,Hypertension,19853
+MBR-00844,Dubai,Diabetes + Cardiac,87298
+MBR-00845,Dubai,Hypertension,22236
+MBR-00846,Dubai,Cardiac,50939
+MBR-00847,Dubai,Hypertension,16185
+MBR-00848,Dubai,Diabetes,43109
+MBR-00849,Dubai,Hypertension,22736
+MBR-00850,Abu Dhabi,Diabetes + Hypertension,46185
+MBR-00851,Other,Diabetes + Cardiac,55623
+MBR-00852,Dubai,Hypertension,21231
+MBR-00853,Dubai,Hypertension,15355
+MBR-00854,Abu Dhabi,Hypertension,21435
+MBR-00855,Abu Dhabi,Cardiac,65484
+MBR-00856,Dubai,Diabetes,41438
+MBR-00857,Abu Dhabi,Diabetes + Hypertension,54565
+MBR-00858,Abu Dhabi,Diabetes + Hypertension,40218
+MBR-00859,Dubai,Hypertension,23211
+MBR-00860,Abu Dhabi,Hypertension,25639
+MBR-00861,Dubai,Diabetes,32476
+MBR-00862,Other,Diabetes,41716
+MBR-00863,Ajman,Diabetes,32374
+MBR-00864,Other,Diabetes,35470
+MBR-00865,Abu Dhabi,Diabetes + Hypertension,46848
+MBR-00866,Abu Dhabi,Diabetes,35657
+MBR-00867,Other,Diabetes + Hypertension,58577
+MBR-00868,Abu Dhabi,Diabetes + Hypertension,25225
+MBR-00869,Other,Diabetes + Hypertension,59982
+MBR-00870,Dubai,Diabetes + Hypertension,52322
+MBR-00871,Other,Hypertension,15978
+MBR-00872,Other,Diabetes + Cardiac,92973
+MBR-00873,Dubai,Cardiac,66981
+MBR-00874,Dubai,Hypertension,24218
+MBR-00875,Dubai,Diabetes,33314
+MBR-00876,Ajman,Diabetes,25239
+MBR-00877,Dubai,Hypertension,19518
+MBR-00878,Abu Dhabi,Diabetes,25349
+MBR-00879,Dubai,Hypertension,24580
+MBR-00880,Dubai,Diabetes + Cardiac,57479
+MBR-00881,Abu Dhabi,Cardiac,48657
+MBR-00882,Abu Dhabi,Diabetes,35051
+MBR-00883,Abu Dhabi,Diabetes,37793
+MBR-00884,Dubai,Diabetes + Cardiac,72843
+MBR-00885,Dubai,Diabetes + Hypertension,65083
+MBR-00886,Dubai,Diabetes,29966
+MBR-00887,Ajman,Hypertension,25722
+MBR-00888,Dubai,Diabetes,20455
+MBR-00889,Abu Dhabi,Diabetes + Hypertension,52328
+MBR-00890,Dubai,Diabetes,29777
+MBR-00891,Dubai,Diabetes,40150
+MBR-00892,Other,Hypertension,21730
+MBR-00893,Abu Dhabi,Diabetes + Hypertension,44165
+MBR-00894,Dubai,Diabetes,37555
+MBR-00895,Dubai,Hypertension,21997
+MBR-00896,Other,Hypertension,18573
+MBR-00897,Dubai,Diabetes + Cardiac,65866
+MBR-00898,Abu Dhabi,Cardiac,58196
+MBR-00899,Dubai,Cardiac,61507
+MBR-00900,Dubai,Cardiac,74239
+MBR-00901,Abu Dhabi,Diabetes + Hypertension,45135
+MBR-00902,Ajman,Hypertension,15253
+MBR-00903,Ajman,Hypertension,20664
+MBR-00904,Dubai,Diabetes,36340
+MBR-00905,Dubai,Hypertension,27212
+MBR-00906,Abu Dhabi,Diabetes,25673
+MBR-00907,Abu Dhabi,Diabetes + Cardiac,84785
+MBR-00908,Ajman,Hypertension,23924
+MBR-00909,Dubai,Hypertension,20268
+MBR-00910,Abu Dhabi,Diabetes + Cardiac,71908
+MBR-00911,Dubai,Diabetes + Cardiac,54220
+MBR-00912,Ajman,Hypertension,17402
+MBR-00913,Abu Dhabi,Diabetes + Cardiac,45061
+MBR-00914,Abu Dhabi,Diabetes + Hypertension,44255
+MBR-00915,Dubai,Hypertension,24341
+MBR-00916,Other,Hypertension,21220
+MBR-00917,Abu Dhabi,Cardiac,61215
+MBR-00918,Dubai,Diabetes + Hypertension,36958
+MBR-00919,Dubai,Hypertension,19259
+MBR-00920,Dubai,Cardiac,60215
+MBR-00921,Other,Hypertension,30377
+MBR-00922,Ajman,Cardiac,58062
+MBR-00923,Dubai,Diabetes + Hypertension,38098
+MBR-00924,Other,Diabetes + Hypertension,46744
+MBR-00925,Dubai,Diabetes,35898
+MBR-00926,Dubai,Cardiac,75239
+MBR-00927,Ajman,Hypertension,26173
+MBR-00928,Abu Dhabi,Diabetes,37940
+MBR-00929,Dubai,Hypertension,20196
+MBR-00930,Abu Dhabi,Hypertension,16351
+MBR-00931,Other,Diabetes + Hypertension,55753
+MBR-00932,Abu Dhabi,Diabetes + Hypertension,56081
+MBR-00933,Dubai,Diabetes + Hypertension,53348
+MBR-00934,Dubai,Diabetes,39219
+MBR-00935,Other,Diabetes,30713
+MBR-00936,Dubai,Diabetes,36068
+MBR-00937,Dubai,Diabetes + Cardiac,70927
+MBR-00938,Abu Dhabi,Diabetes,22986
+MBR-00939,Abu Dhabi,Diabetes + Hypertension,55306
+MBR-00940,Other,Cardiac,75119
+MBR-00941,Abu Dhabi,Diabetes + Cardiac,66915
+MBR-00942,Abu Dhabi,Diabetes + Hypertension,36234
+MBR-00943,Dubai,Diabetes,29262
+MBR-00944,Abu Dhabi,Hypertension,26208
+MBR-00945,Abu Dhabi,Cardiac,69614
+MBR-00946,Abu Dhabi,Hypertension,24645
+MBR-00947,Other,Diabetes,34867
+MBR-00948,Dubai,Diabetes,28457
+MBR-00949,Dubai,Cardiac,66559
+MBR-00950,Other,Hypertension,23271
+MBR-00951,Abu Dhabi,Cardiac,60980
+MBR-00952,Abu Dhabi,Diabetes + Cardiac,48768
+MBR-00953,Dubai,Hypertension,24195
+MBR-00954,Abu Dhabi,Diabetes + Hypertension,44288
+MBR-00955,Other,Diabetes,25439
+MBR-00956,Abu Dhabi,Diabetes,39172
+MBR-00957,Dubai,Hypertension,27888
+MBR-00958,Dubai,Diabetes,28695
+MBR-00959,Dubai,Hypertension,24738
+MBR-00960,Abu Dhabi,Diabetes,36785
+MBR-00961,Dubai,Hypertension,14369
+MBR-00962,Other,Hypertension,18707
+MBR-00963,Dubai,Diabetes,35508
+MBR-00964,Other,Cardiac,57084
+MBR-00965,Dubai,Diabetes + Cardiac,78812
+MBR-00966,Abu Dhabi,Hypertension,23009
+MBR-00967,Abu Dhabi,Cardiac,58699
+MBR-00968,Ajman,Diabetes + Hypertension,43926
+MBR-00969,Other,Hypertension,18695
+MBR-00970,Dubai,Cardiac,47659
+MBR-00971,Other,Hypertension,19182
+MBR-00972,Dubai,Cardiac,67613
+MBR-00973,Other,Diabetes,27943
+MBR-00974,Abu Dhabi,Diabetes + Hypertension,51757
+MBR-00975,Other,Diabetes,41768
+MBR-00976,Abu Dhabi,Hypertension,26760
+MBR-00977,Ajman,Hypertension,22641
+MBR-00978,Dubai,Diabetes,25654
+MBR-00979,Abu Dhabi,Hypertension,16637
+MBR-00980,Dubai,Hypertension,22980
+MBR-00981,Other,Diabetes + Cardiac,80639
+MBR-00982,Dubai,Cardiac,64168
+MBR-00983,Other,Hypertension,26776
+MBR-00984,Other,Hypertension,23895
+MBR-00985,Abu Dhabi,Diabetes + Cardiac,77663
+MBR-00986,Abu Dhabi,Diabetes + Cardiac,75502
+MBR-00987,Abu Dhabi,Diabetes + Hypertension,46757
+MBR-00988,Abu Dhabi,Diabetes + Cardiac,91311
+MBR-00989,Ajman,Diabetes + Cardiac,83322
+MBR-00990,Ajman,Diabetes + Cardiac,72296
+MBR-00991,Abu Dhabi,Diabetes,34158
+MBR-00992,Other,Diabetes + Cardiac,60366
+MBR-00993,Dubai,Diabetes,41861
+MBR-00994,Abu Dhabi,Hypertension,21676
+MBR-00995,Abu Dhabi,Diabetes + Hypertension,49444
+MBR-00996,Dubai,Diabetes,39548
+MBR-00997,Abu Dhabi,Diabetes + Cardiac,85690
+MBR-00998,Ajman,Diabetes + Hypertension,42457
+MBR-00999,Ajman,Diabetes + Cardiac,77515
+MBR-01000,Dubai,Diabetes + Hypertension,48048
+MBR-01001,Abu Dhabi,Diabetes,34365
+MBR-01002,Dubai,Diabetes,37918
+MBR-01003,Dubai,Hypertension,24967
+MBR-01004,Dubai,Hypertension,25920
+MBR-01005,Abu Dhabi,Hypertension,24091
+MBR-01006,Other,Diabetes,26440
+MBR-01007,Abu Dhabi,Hypertension,22453
+MBR-01008,Ajman,Cardiac,62009
+MBR-01009,Abu Dhabi,Diabetes,27872
+MBR-01010,Dubai,Cardiac,47413
+MBR-01011,Other,Diabetes,42119
+MBR-01012,Dubai,Diabetes + Hypertension,42078
+MBR-01013,Other,Diabetes + Hypertension,36980
+MBR-01014,Dubai,Hypertension,19328
+MBR-01015,Dubai,Diabetes + Hypertension,50747
+MBR-01016,Abu Dhabi,Hypertension,19456
+MBR-01017,Dubai,Diabetes,28437
+MBR-01018,Dubai,Cardiac,58186
+MBR-01019,Ajman,Cardiac,42452
+MBR-01020,Abu Dhabi,Diabetes,27271
+MBR-01021,Dubai,Cardiac,79878
+MBR-01022,Abu Dhabi,Hypertension,18025
+MBR-01023,Abu Dhabi,Cardiac,72572
+MBR-01024,Dubai,Cardiac,56971
+MBR-01025,Dubai,Cardiac,67144
+MBR-01026,Dubai,Diabetes,35400
+MBR-01027,Dubai,Hypertension,22416
+MBR-01028,Ajman,Diabetes + Cardiac,99662
+MBR-01029,Abu Dhabi,Diabetes,28428
+MBR-01030,Dubai,Hypertension,21000
+MBR-01031,Ajman,Cardiac,57055
+MBR-01032,Other,Hypertension,23395
+MBR-01033,Dubai,Cardiac,51534
+MBR-01034,Ajman,Cardiac,53816
+MBR-01035,Abu Dhabi,Diabetes + Hypertension,19758
+MBR-01036,Abu Dhabi,Diabetes,32719
+MBR-01037,Other,Diabetes,38527
+MBR-01038,Dubai,Hypertension,16879
+MBR-01039,Abu Dhabi,Diabetes + Hypertension,49661
+MBR-01040,Dubai,Diabetes,24063
+MBR-01041,Ajman,Cardiac,63797
+MBR-01042,Abu Dhabi,Diabetes,20989
+MBR-01043,Abu Dhabi,Diabetes + Hypertension,56012
+MBR-01044,Abu Dhabi,Hypertension,17839
+MBR-01045,Other,Diabetes,33565
+MBR-01046,Abu Dhabi,Diabetes,29130
+MBR-01047,Dubai,Diabetes,25018
+MBR-01048,Abu Dhabi,Hypertension,16127
+MBR-01049,Other,Hypertension,20639
+MBR-01050,Abu Dhabi,Hypertension,24415
+MBR-01051,Other,Diabetes + Hypertension,39959
+MBR-01052,Abu Dhabi,Diabetes,21315
+MBR-01053,Other,Hypertension,17149
+MBR-01054,Abu Dhabi,Diabetes,35687
+MBR-01055,Dubai,Hypertension,25313
+MBR-01056,Abu Dhabi,Hypertension,25285
+MBR-01057,Other,Hypertension,21585
+MBR-01058,Dubai,Hypertension,20031
+MBR-01059,Ajman,Diabetes + Cardiac,64995
+MBR-01060,Dubai,Diabetes + Hypertension,41712
+MBR-01061,Dubai,Diabetes + Hypertension,36458
+MBR-01062,Dubai,Hypertension,24209
+MBR-01063,Dubai,Diabetes,39411
+MBR-01064,Other,Cardiac,72988
+MBR-01065,Abu Dhabi,Diabetes,32368
+MBR-01066,Dubai,Diabetes + Hypertension,56568
+MBR-01067,Dubai,Diabetes,32681
+MBR-01068,Abu Dhabi,Diabetes + Hypertension,40225
+MBR-01069,Dubai,Hypertension,17070
+MBR-01070,Dubai,Cardiac,66271
+MBR-01071,Ajman,Diabetes,39069
+MBR-01072,Abu Dhabi,Diabetes,32956
+MBR-01073,Abu Dhabi,Hypertension,18549
+MBR-01074,Ajman,Cardiac,58687
+MBR-01075,Abu Dhabi,Cardiac,62722
+MBR-01076,Dubai,Cardiac,76742
+MBR-01077,Abu Dhabi,Hypertension,21541
+MBR-01078,Other,Cardiac,45717
+MBR-01079,Dubai,Cardiac,62625
+MBR-01080,Abu Dhabi,Hypertension,16469
+MBR-01081,Other,Cardiac,59367
+MBR-01082,Other,Hypertension,18549
+MBR-01083,Dubai,Diabetes,36668
+MBR-01084,Dubai,Hypertension,25293
+MBR-01085,Dubai,Hypertension,20877
+MBR-01086,Other,Diabetes,32112
+MBR-01087,Ajman,Hypertension,20004
+MBR-01088,Other,Diabetes + Hypertension,68549
+MBR-01089,Ajman,Diabetes + Cardiac,49290
+MBR-01090,Other,Cardiac,70814
+MBR-01091,Abu Dhabi,Cardiac,54641
+MBR-01092,Dubai,Cardiac,58568
+MBR-01093,Dubai,Hypertension,22973
+MBR-01094,Dubai,Diabetes + Cardiac,87279
+MBR-01095,Other,Hypertension,23460
+MBR-01096,Ajman,Hypertension,21119
+MBR-01097,Dubai,Diabetes + Hypertension,34191
+MBR-01098,Other,Cardiac,58592
+MBR-01099,Abu Dhabi,Diabetes,21378
+MBR-01100,Dubai,Diabetes + Hypertension,44405
+MBR-01101,Other,Hypertension,21513
+MBR-01102,Other,Hypertension,20479
+MBR-01103,Other,Diabetes,39514
+MBR-01104,Dubai,Diabetes + Cardiac,53766
+MBR-01105,Abu Dhabi,Diabetes,35916
+MBR-01106,Dubai,Diabetes + Cardiac,60447
+MBR-01107,Abu Dhabi,Diabetes + Hypertension,53913
+MBR-01108,Dubai,Hypertension,11588
+MBR-01109,Dubai,Cardiac,58250
+MBR-01110,Abu Dhabi,Diabetes,44422
+MBR-01111,Other,Diabetes,36448
+MBR-01112,Dubai,Diabetes + Hypertension,22265
+MBR-01113,Ajman,Hypertension,19138
+MBR-01114,Abu Dhabi,Diabetes,36449
+MBR-01115,Abu Dhabi,Diabetes + Cardiac,73986
+MBR-01116,Abu Dhabi,Diabetes + Hypertension,31812
+MBR-01117,Abu Dhabi,Diabetes,34159
+MBR-01118,Dubai,Hypertension,20147
+MBR-01119,Dubai,Hypertension,21041
+MBR-01120,Ajman,Diabetes,34004
+MBR-01121,Dubai,Hypertension,19006
+MBR-01122,Abu Dhabi,Diabetes + Hypertension,28333
+MBR-01123,Dubai,Diabetes + Hypertension,41961
+MBR-01124,Dubai,Hypertension,25094
+MBR-01125,Abu Dhabi,Cardiac,50530
+MBR-01126,Dubai,Diabetes + Cardiac,83782
+MBR-01127,Abu Dhabi,Hypertension,15016
+MBR-01128,Abu Dhabi,Diabetes,29177
+MBR-01129,Abu Dhabi,Diabetes,27802
+MBR-01130,Other,Diabetes,24541
+MBR-01131,Abu Dhabi,Hypertension,19102
+MBR-01132,Ajman,Diabetes,36011
+MBR-01133,Abu Dhabi,Diabetes + Cardiac,90427
+MBR-01134,Dubai,Diabetes,20891
+MBR-01135,Abu Dhabi,Hypertension,20575
+MBR-01136,Abu Dhabi,Cardiac,62940
+MBR-01137,Other,Diabetes,38569
+MBR-01138,Abu Dhabi,Diabetes,32231
+MBR-01139,Dubai,Diabetes + Hypertension,43437
+MBR-01140,Dubai,Diabetes + Cardiac,74571
+MBR-01141,Other,Diabetes,28074
+MBR-01142,Other,Diabetes,35441
+MBR-01143,Dubai,Diabetes,41094
+MBR-01144,Dubai,Diabetes,39849
+MBR-01145,Dubai,Diabetes,45726
+MBR-01146,Dubai,Diabetes + Cardiac,56684
+MBR-01147,Abu Dhabi,Diabetes,31850
+MBR-01148,Ajman,Diabetes,28475
+MBR-01149,Abu Dhabi,Diabetes + Hypertension,35882
+MBR-01150,Ajman,Hypertension,26550
+MBR-01151,Other,Cardiac,61900
+MBR-01152,Dubai,Diabetes,23075
+MBR-01153,Abu Dhabi,Diabetes,28797
+MBR-01154,Dubai,Hypertension,21784
+MBR-01155,Dubai,Diabetes,39348
+MBR-01156,Dubai,Diabetes + Hypertension,61185
+MBR-01157,Abu Dhabi,Diabetes,32936
+MBR-01158,Abu Dhabi,Diabetes + Cardiac,67340
+MBR-01159,Other,Diabetes + Cardiac,72300
+MBR-01160,Dubai,Cardiac,73105
+MBR-01161,Other,Hypertension,22881
+MBR-01162,Dubai,Diabetes + Hypertension,41168
+MBR-01163,Dubai,Diabetes + Hypertension,40072
+MBR-01164,Abu Dhabi,Diabetes + Cardiac,82357
+MBR-01165,Other,Hypertension,27162
+MBR-01166,Abu Dhabi,Diabetes,41627
+MBR-01167,Abu Dhabi,Diabetes + Hypertension,41696
+MBR-01168,Dubai,Hypertension,21197
+MBR-01169,Dubai,Diabetes,28682
+MBR-01170,Abu Dhabi,Diabetes + Cardiac,81045
+MBR-01171,Ajman,Diabetes + Cardiac,71346
+MBR-01172,Other,Hypertension,23804
+MBR-01173,Dubai,Hypertension,25988
+MBR-01174,Abu Dhabi,Hypertension,9695
+MBR-01175,Dubai,Cardiac,62340
+MBR-01176,Dubai,Diabetes,30041
+MBR-01177,Dubai,Hypertension,21856
+MBR-01178,Other,Diabetes,36577
+MBR-01179,Other,Hypertension,20487
+MBR-01180,Dubai,Diabetes,36897
+MBR-01181,Abu Dhabi,Diabetes,27283
+MBR-01182,Dubai,Diabetes,33613
+MBR-01183,Other,Cardiac,63100
+MBR-01184,Dubai,Cardiac,52265
+MBR-01185,Dubai,Diabetes + Cardiac,51669
+MBR-01186,Dubai,Cardiac,53489
+MBR-01187,Other,Hypertension,18854
+MBR-01188,Dubai,Cardiac,58815
+MBR-01189,Other,Hypertension,18771
+MBR-01190,Other,Diabetes,37358
+MBR-01191,Other,Diabetes,28184
+MBR-01192,Abu Dhabi,Cardiac,63842
+MBR-01193,Abu Dhabi,Cardiac,64316
+MBR-01194,Abu Dhabi,Diabetes + Cardiac,69825
+MBR-01195,Dubai,Diabetes + Cardiac,97916
+MBR-01196,Dubai,Cardiac,48706
+MBR-01197,Abu Dhabi,Hypertension,23531
+MBR-01198,Abu Dhabi,Hypertension,18325
+MBR-01199,Dubai,Diabetes + Hypertension,49331
+MBR-01200,Abu Dhabi,Hypertension,16009
+MBR-01201,Abu Dhabi,Diabetes,27926
+MBR-01202,Dubai,Cardiac,48550
+MBR-01203,Dubai,Diabetes + Hypertension,49066
+MBR-01204,Abu Dhabi,Hypertension,12401
+MBR-01205,Other,Hypertension,15004
+MBR-01206,Abu Dhabi,Hypertension,17816
+MBR-01207,Other,Hypertension,20949
+MBR-01208,Dubai,Diabetes + Hypertension,47199
+MBR-01209,Dubai,Diabetes,34817
+MBR-01210,Other,Diabetes,32072
+MBR-01211,Abu Dhabi,Cardiac,32818
+MBR-01212,Dubai,Diabetes,35104
+MBR-01213,Dubai,Diabetes + Hypertension,38587
+MBR-01214,Dubai,Hypertension,22245
+MBR-01215,Abu Dhabi,Cardiac,52617
+MBR-01216,Abu Dhabi,Diabetes + Hypertension,49664
+MBR-01217,Dubai,Diabetes + Cardiac,76697
+MBR-01218,Ajman,Diabetes + Hypertension,55251
+MBR-01219,Dubai,Diabetes + Cardiac,79799
+MBR-01220,Abu Dhabi,Diabetes + Hypertension,45258
+MBR-01221,Other,Diabetes + Hypertension,39584
+MBR-01222,Dubai,Cardiac,65019
+MBR-01223,Abu Dhabi,Diabetes,42969
+MBR-01224,Dubai,Cardiac,56775
+MBR-01225,Ajman,Cardiac,51905
+MBR-01226,Dubai,Cardiac,52187
+MBR-01227,Abu Dhabi,Diabetes,28494
+MBR-01228,Abu Dhabi,Diabetes + Cardiac,76943
+MBR-01229,Dubai,Hypertension,21088
+MBR-01230,Abu Dhabi,Diabetes,28519
+MBR-01231,Abu Dhabi,Hypertension,18313
+MBR-01232,Dubai,Diabetes + Cardiac,71247
+MBR-01233,Dubai,Hypertension,24495
+MBR-01234,Abu Dhabi,Hypertension,25718
+MBR-01235,Dubai,Hypertension,20239
+MBR-01236,Ajman,Diabetes + Cardiac,73618
+MBR-01237,Dubai,Diabetes + Hypertension,42934
+MBR-01238,Dubai,Hypertension,21600
+MBR-01239,Abu Dhabi,Diabetes,27121
+MBR-01240,Abu Dhabi,Hypertension,23527
+MBR-01241,Dubai,Hypertension,17614
+MBR-01242,Dubai,Diabetes,30960
+MBR-01243,Abu Dhabi,Diabetes + Hypertension,52642
+MBR-01244,Abu Dhabi,Cardiac,75135
+MBR-01245,Dubai,Hypertension,18397
+MBR-01246,Other,Diabetes + Cardiac,95830
+MBR-01247,Abu Dhabi,Cardiac,55536
+MBR-01248,Dubai,Diabetes,34314
+MBR-01249,Abu Dhabi,Hypertension,21343
+MBR-01250,Abu Dhabi,Diabetes,37832
+MBR-01251,Abu Dhabi,Diabetes + Cardiac,69052
+MBR-01252,Dubai,Hypertension,16597
+MBR-01253,Other,Diabetes + Cardiac,73044
+MBR-01254,Ajman,Hypertension,20897
+MBR-01255,Dubai,Diabetes,19640
+MBR-01256,Other,Diabetes,29743
+MBR-01257,Other,Hypertension,22926
+MBR-01258,Abu Dhabi,Diabetes,34306
+MBR-01259,Dubai,Hypertension,20777
+MBR-01260,Dubai,Cardiac,61657
+MBR-01261,Dubai,Diabetes + Cardiac,71143
+MBR-01262,Other,Diabetes,40682
+MBR-01263,Dubai,Hypertension,20053
+MBR-01264,Abu Dhabi,Diabetes,34180
+MBR-01265,Abu Dhabi,Hypertension,22321
+MBR-01266,Abu Dhabi,Diabetes + Hypertension,52684
+MBR-01267,Ajman,Hypertension,24610
+MBR-01268,Ajman,Hypertension,17686
+MBR-01269,Dubai,Cardiac,58065
+MBR-01270,Ajman,Hypertension,25160
+MBR-01271,Dubai,Diabetes + Cardiac,99479
+MBR-01272,Ajman,Hypertension,18610
+MBR-01273,Other,Diabetes + Cardiac,99616
+MBR-01274,Abu Dhabi,Hypertension,13540
+MBR-01275,Dubai,Hypertension,25726
+MBR-01276,Abu Dhabi,Cardiac,43873
+MBR-01277,Dubai,Diabetes,32017
+MBR-01278,Abu Dhabi,Cardiac,55893
+MBR-01279,Other,Cardiac,61326
+MBR-01280,Dubai,Diabetes,30134
+MBR-01281,Other,Hypertension,25464
+MBR-01282,Other,Cardiac,64309
+MBR-01283,Abu Dhabi,Diabetes,23243
+MBR-01284,Dubai,Cardiac,81390
+MBR-01285,Dubai,Diabetes,33016
+MBR-01286,Other,Hypertension,25112
+MBR-01287,Other,Diabetes,40727
+MBR-01288,Ajman,Diabetes,21741
+MBR-01289,Abu Dhabi,Diabetes + Hypertension,55963
+MBR-01290,Abu Dhabi,Hypertension,18512
+MBR-01291,Dubai,Diabetes + Hypertension,51577
+MBR-01292,Abu Dhabi,Cardiac,50006
+MBR-01293,Other,Diabetes + Cardiac,78787
+MBR-01294,Other,Cardiac,43652
+MBR-01295,Abu Dhabi,Diabetes,31219
+MBR-01296,Other,Diabetes + Cardiac,55008
+MBR-01297,Dubai,Diabetes + Hypertension,42143
+MBR-01298,Other,Cardiac,68808
+MBR-01299,Other,Diabetes,33654
+MBR-01300,Abu Dhabi,Hypertension,21535
+MBR-01301,Dubai,Cardiac,67897
+MBR-01302,Other,Diabetes,23008
+MBR-01303,Other,Diabetes,31984
+MBR-01304,Dubai,Diabetes + Cardiac,73905
+MBR-01305,Abu Dhabi,Hypertension,29850
+MBR-01306,Dubai,Hypertension,18706
+MBR-01307,Abu Dhabi,Hypertension,18590
+MBR-01308,Other,Diabetes + Cardiac,60455
+MBR-01309,Abu Dhabi,Hypertension,27100
+MBR-01310,Other,Hypertension,24381
+MBR-01311,Abu Dhabi,Hypertension,25182
+MBR-01312,Abu Dhabi,Hypertension,24585
+MBR-01313,Dubai,Hypertension,23862
+MBR-01314,Abu Dhabi,Cardiac,58011
+MBR-01315,Other,Diabetes,34346
+MBR-01316,Dubai,Diabetes,41218
+MBR-01317,Dubai,Diabetes,37322
+MBR-01318,Ajman,Hypertension,25757
+MBR-01319,Dubai,Cardiac,48183
+MBR-01320,Dubai,Diabetes,32618
+MBR-01321,Dubai,Diabetes,22508
+MBR-01322,Abu Dhabi,Diabetes + Cardiac,67740
+MBR-01323,Ajman,Hypertension,16851
+MBR-01324,Dubai,Diabetes + Cardiac,58444
+MBR-01325,Abu Dhabi,Hypertension,18927
+MBR-01326,Other,Diabetes + Cardiac,46738
+MBR-01327,Abu Dhabi,Cardiac,49428
+MBR-01328,Abu Dhabi,Cardiac,64433
+MBR-01329,Dubai,Diabetes + Hypertension,36391
+MBR-01330,Abu Dhabi,Cardiac,43665
+MBR-01331,Abu Dhabi,Hypertension,13663
+MBR-01332,Other,Hypertension,15877
+MBR-01333,Abu Dhabi,Cardiac,73451
+MBR-01334,Abu Dhabi,Diabetes,31578
+MBR-01335,Dubai,Diabetes + Hypertension,54705
+MBR-01336,Dubai,Diabetes,38582
+MBR-01337,Other,Diabetes + Cardiac,55987
+MBR-01338,Dubai,Diabetes + Hypertension,54437
+MBR-01339,Dubai,Hypertension,20963
+MBR-01340,Other,Diabetes + Cardiac,62919
+MBR-01341,Dubai,Diabetes + Hypertension,51107
+MBR-01342,Dubai,Diabetes,33965
+MBR-01343,Abu Dhabi,Cardiac,56630
+MBR-01344,Dubai,Diabetes + Hypertension,45034
+MBR-01345,Abu Dhabi,Cardiac,55566
+MBR-01346,Dubai,Diabetes,24680
+MBR-01347,Abu Dhabi,Diabetes,30993
+MBR-01348,Dubai,Cardiac,73758
+MBR-01349,Abu Dhabi,Hypertension,20333
+MBR-01350,Other,Diabetes + Hypertension,47554
+MBR-01351,Dubai,Diabetes,28492
+MBR-01352,Dubai,Diabetes,31760
+MBR-01353,Dubai,Diabetes,32513
+MBR-01354,Abu Dhabi,Cardiac,80654
+MBR-01355,Ajman,Hypertension,23666
+MBR-01356,Dubai,Hypertension,22586
+MBR-01357,Abu Dhabi,Hypertension,27066
+MBR-01358,Dubai,Diabetes,39895
+MBR-01359,Abu Dhabi,Diabetes + Cardiac,88082
+MBR-01360,Abu Dhabi,Cardiac,48435
+MBR-01361,Other,Diabetes + Cardiac,43173
+MBR-01362,Abu Dhabi,Cardiac,70926
+MBR-01363,Ajman,Diabetes,29163
+MBR-01364,Ajman,Diabetes,26255
+MBR-01365,Dubai,Hypertension,25381
+MBR-01366,Other,Diabetes + Hypertension,27780
+MBR-01367,Dubai,Hypertension,26318
+MBR-01368,Abu Dhabi,Diabetes + Hypertension,47048
+MBR-01369,Abu Dhabi,Diabetes + Cardiac,85626
+MBR-01370,Dubai,Hypertension,19383
+MBR-01371,Abu Dhabi,Cardiac,49029
+MBR-01372,Other,Hypertension,24591
+MBR-01373,Ajman,Cardiac,48025
+MBR-01374,Dubai,Cardiac,58898
+MBR-01375,Abu Dhabi,Diabetes,31023
+MBR-01376,Abu Dhabi,Diabetes + Cardiac,48560
+MBR-01377,Dubai,Diabetes,39692
+MBR-01378,Other,Diabetes + Hypertension,38793
+MBR-01379,Dubai,Cardiac,55422
+MBR-01380,Abu Dhabi,Cardiac,60386
+MBR-01381,Dubai,Hypertension,13905
+MBR-01382,Abu Dhabi,Diabetes,31212
+MBR-01383,Dubai,Diabetes,32731
+MBR-01384,Dubai,Diabetes + Cardiac,65649
+MBR-01385,Abu Dhabi,Hypertension,20921
+MBR-01386,Abu Dhabi,Hypertension,18893
+MBR-01387,Dubai,Hypertension,23753
+MBR-01388,Other,Cardiac,35646
+MBR-01389,Dubai,Cardiac,63099
+MBR-01390,Abu Dhabi,Diabetes,26183
+MBR-01391,Other,Cardiac,59530
+MBR-01392,Dubai,Diabetes,42925
+MBR-01393,Abu Dhabi,Diabetes + Hypertension,45598
+MBR-01394,Ajman,Cardiac,64568
+MBR-01395,Other,Cardiac,69357
+MBR-01396,Abu Dhabi,Diabetes,29657
+MBR-01397,Abu Dhabi,Cardiac,52446
+MBR-01398,Dubai,Hypertension,17739
+MBR-01399,Other,Hypertension,21293
+MBR-01400,Abu Dhabi,Hypertension,20932
+MBR-01401,Abu Dhabi,Diabetes,34889
+MBR-01402,Other,Hypertension,28435
+MBR-01403,Dubai,Diabetes,28792
+MBR-01404,Abu Dhabi,Diabetes,39870
+MBR-01405,Dubai,Diabetes,35747
+MBR-01406,Other,Cardiac,54714
+MBR-01407,Ajman,Diabetes,31154
+MBR-01408,Dubai,Diabetes,30052
+MBR-01409,Dubai,Diabetes + Hypertension,35932
+MBR-01410,Other,Hypertension,7822
+MBR-01411,Abu Dhabi,Diabetes + Hypertension,34418
+MBR-01412,Other,Hypertension,20161
+MBR-01413,Dubai,Diabetes + Cardiac,67373
+MBR-01414,Dubai,Diabetes,42039
+MBR-01415,Dubai,Diabetes,33466
+MBR-01416,Dubai,Diabetes + Hypertension,53648
+MBR-01417,Dubai,Cardiac,37983
+MBR-01418,Dubai,Diabetes,37340
+MBR-01419,Abu Dhabi,Diabetes + Cardiac,56922
+MBR-01420,Abu Dhabi,Diabetes,31125
+MBR-01421,Abu Dhabi,Diabetes,35963
+MBR-01422,Abu Dhabi,Hypertension,15834
+MBR-01423,Abu Dhabi,Diabetes,30333
+MBR-01424,Abu Dhabi,Hypertension,21416
+MBR-01425,Ajman,Diabetes + Cardiac,104345
+MBR-01426,Dubai,Diabetes + Cardiac,83063
+MBR-01427,Abu Dhabi,Cardiac,61613
+MBR-01428,Abu Dhabi,Cardiac,70236
+MBR-01429,Dubai,Diabetes,26962
+MBR-01430,Dubai,Diabetes,30113
+MBR-01431,Dubai,Diabetes + Cardiac,79163
+MBR-01432,Abu Dhabi,Diabetes,40663
+MBR-01433,Abu Dhabi,Diabetes,40067
+MBR-01434,Dubai,Diabetes,27292
+MBR-01435,Other,Cardiac,49421
+MBR-01436,Abu Dhabi,Diabetes,34053
+MBR-01437,Ajman,Diabetes,43646
+MBR-01438,Abu Dhabi,Hypertension,19307
+MBR-01439,Dubai,Hypertension,25027
+MBR-01440,Other,Hypertension,16066
+MBR-01441,Abu Dhabi,Diabetes,36394
+MBR-01442,Abu Dhabi,Cardiac,62303
+MBR-01443,Abu Dhabi,Diabetes,37146
+MBR-01444,Dubai,Hypertension,22406
+MBR-01445,Dubai,Hypertension,11525
+MBR-01446,Other,Diabetes,32541
+MBR-01447,Dubai,Hypertension,17685
+MBR-01448,Abu Dhabi,Diabetes,25155
+MBR-01449,Abu Dhabi,Diabetes,32916
+MBR-01450,Abu Dhabi,Diabetes,35434
+MBR-01451,Abu Dhabi,Diabetes + Hypertension,50504
+MBR-01452,Abu Dhabi,Diabetes,35976
+MBR-01453,Abu Dhabi,Hypertension,19431
+MBR-01454,Abu Dhabi,Cardiac,59661
+MBR-01455,Other,Diabetes,36446
+MBR-01456,Dubai,Diabetes + Hypertension,53938
+MBR-01457,Abu Dhabi,Diabetes + Hypertension,39940
+MBR-01458,Dubai,Diabetes + Cardiac,59727
+MBR-01459,Dubai,Diabetes,39853
+MBR-01460,Dubai,Diabetes,28921
+MBR-01461,Dubai,Diabetes + Cardiac,61282
+MBR-01462,Dubai,Hypertension,19783
+MBR-01463,Dubai,Diabetes,31699
+MBR-01464,Dubai,Hypertension,18090
+MBR-01465,Abu Dhabi,Cardiac,58964
+MBR-01466,Other,Cardiac,69726
+MBR-01467,Other,Hypertension,19179
+MBR-01468,Dubai,Cardiac,48217
+MBR-01469,Dubai,Diabetes,42158
+MBR-01470,Abu Dhabi,Diabetes,25883
+MBR-01471,Dubai,Cardiac,54039
+MBR-01472,Abu Dhabi,Cardiac,64877
+MBR-01473,Abu Dhabi,Diabetes + Hypertension,39207
+MBR-01474,Other,Diabetes + Cardiac,48388
+MBR-01475,Dubai,Diabetes,28992
+MBR-01476,Other,Diabetes + Hypertension,47281
+MBR-01477,Other,Diabetes,25321
+MBR-01478,Dubai,Diabetes + Cardiac,46850
+MBR-01479,Other,Diabetes + Cardiac,61131
+MBR-01480,Dubai,Diabetes,20244
+MBR-01481,Dubai,Cardiac,43323
+MBR-01482,Dubai,Hypertension,21193
+MBR-01483,Ajman,Hypertension,21210
+MBR-01484,Dubai,Diabetes + Cardiac,75395
+MBR-01485,Ajman,Diabetes + Hypertension,35838
+MBR-01486,Other,Hypertension,21005
+MBR-01487,Other,Diabetes,24875
+MBR-01488,Abu Dhabi,Diabetes + Cardiac,76811
+MBR-01489,Ajman,Diabetes + Cardiac,90179
+MBR-01490,Abu Dhabi,Hypertension,18387
+MBR-01491,Dubai,Hypertension,23276
+MBR-01492,Other,Hypertension,28289
+MBR-01493,Dubai,Diabetes,32313
+MBR-01494,Ajman,Diabetes,29269
+MBR-01495,Abu Dhabi,Diabetes + Hypertension,43432
+MBR-01496,Abu Dhabi,Diabetes,28653
+MBR-01497,Other,Hypertension,16324
+MBR-01498,Dubai,Hypertension,25036
+MBR-01499,Dubai,Cardiac,63897
+MBR-01500,Dubai,Diabetes + Cardiac,77936
+MBR-01501,Abu Dhabi,Diabetes + Hypertension,42216
+MBR-01502,Dubai,Diabetes + Hypertension,45571
+MBR-01503,Other,Cardiac,65702
+MBR-01504,Dubai,Hypertension,24054
+MBR-01505,Dubai,Diabetes + Hypertension,50481
+MBR-01506,Ajman,Diabetes + Hypertension,48449
+MBR-01507,Ajman,Cardiac,40202
+MBR-01508,Abu Dhabi,Hypertension,20617
+MBR-01509,Abu Dhabi,Diabetes,29124
+MBR-01510,Dubai,Diabetes,29970
+MBR-01511,Dubai,Diabetes,41076
+MBR-01512,Other,Hypertension,26003
+MBR-01513,Other,Cardiac,63710
+MBR-01514,Abu Dhabi,Diabetes,28510
+MBR-01515,Ajman,Diabetes,28059
+MBR-01516,Abu Dhabi,Diabetes,35368
+MBR-01517,Dubai,Hypertension,18909
+MBR-01518,Dubai,Diabetes + Cardiac,56598
+MBR-01519,Abu Dhabi,Diabetes,30231
+MBR-01520,Dubai,Diabetes,21899
+MBR-01521,Other,Diabetes + Cardiac,88601
+MBR-01522,Abu Dhabi,Diabetes,30491
+MBR-01523,Abu Dhabi,Diabetes + Hypertension,45397
+MBR-01524,Abu Dhabi,Diabetes,34761
+MBR-01525,Other,Hypertension,17736
+MBR-01526,Other,Diabetes + Hypertension,43467
+MBR-01527,Abu Dhabi,Hypertension,26840
+MBR-01528,Other,Diabetes + Hypertension,50366
+MBR-01529,Dubai,Diabetes + Hypertension,36446
+MBR-01530,Other,Diabetes,32949
+MBR-01531,Abu Dhabi,Diabetes + Hypertension,42298
+MBR-01532,Other,Diabetes + Cardiac,82394
+MBR-01533,Abu Dhabi,Cardiac,48919
+MBR-01534,Dubai,Diabetes + Hypertension,29933
+MBR-01535,Dubai,Cardiac,42529
+MBR-01536,Abu Dhabi,Diabetes + Cardiac,75492
+MBR-01537,Abu Dhabi,Hypertension,21910
+MBR-01538,Dubai,Diabetes,34819
+MBR-01539,Abu Dhabi,Cardiac,72969
+MBR-01540,Dubai,Diabetes,32712
+MBR-01541,Dubai,Diabetes,33202
+MBR-01542,Dubai,Diabetes,24798
+MBR-01543,Dubai,Cardiac,78683
+MBR-01544,Ajman,Diabetes,34733
+MBR-01545,Abu Dhabi,Diabetes,37840
+MBR-01546,Abu Dhabi,Diabetes,27590
+MBR-01547,Other,Cardiac,58086
+MBR-01548,Other,Diabetes,32917
+MBR-01549,Abu Dhabi,Cardiac,56235
+MBR-01550,Other,Cardiac,82403
+MBR-01551,Dubai,Diabetes + Cardiac,87694
+MBR-01552,Abu Dhabi,Diabetes + Hypertension,57055
+MBR-01553,Other,Diabetes,39323
+MBR-01554,Dubai,Diabetes + Hypertension,51962
+MBR-01555,Abu Dhabi,Diabetes,27253
+MBR-01556,Other,Diabetes,29636
+MBR-01557,Abu Dhabi,Diabetes + Hypertension,61384
+MBR-01558,Abu Dhabi,Diabetes,32900
+MBR-01559,Dubai,Diabetes + Cardiac,104506
+MBR-01560,Dubai,Hypertension,16217
+MBR-01561,Other,Hypertension,21054
+MBR-01562,Other,Hypertension,20205
+MBR-01563,Other,Hypertension,22571
+MBR-01564,Dubai,Diabetes + Cardiac,72662
+MBR-01565,Dubai,Hypertension,17799
+MBR-01566,Dubai,Diabetes + Cardiac,86490
+MBR-01567,Dubai,Diabetes,36823
+MBR-01568,Dubai,Diabetes + Hypertension,49029
+MBR-01569,Abu Dhabi,Hypertension,20534
+MBR-01570,Abu Dhabi,Diabetes + Cardiac,68709
+MBR-01571,Other,Hypertension,16074
+MBR-01572,Dubai,Cardiac,66323
+MBR-01573,Dubai,Diabetes,31561
+MBR-01574,Other,Hypertension,23342
+MBR-01575,Dubai,Diabetes,20970
+MBR-01576,Abu Dhabi,Hypertension,19677
+MBR-01577,Other,Cardiac,75568
+MBR-01578,Abu Dhabi,Diabetes,27802
+MBR-01579,Abu Dhabi,Diabetes,24124
+MBR-01580,Dubai,Cardiac,68825
+MBR-01581,Dubai,Hypertension,23767
+MBR-01582,Other,Diabetes,38719
+MBR-01583,Other,Hypertension,16787
+MBR-01584,Other,Hypertension,16845
+MBR-01585,Ajman,Hypertension,17429
+MBR-01586,Dubai,Diabetes + Hypertension,33403
+MBR-01587,Other,Cardiac,56979
+MBR-01588,Other,Hypertension,11819
+MBR-01589,Dubai,Diabetes,33286
+MBR-01590,Abu Dhabi,Cardiac,60947
+MBR-01591,Ajman,Diabetes + Cardiac,92038
+MBR-01592,Abu Dhabi,Hypertension,19984
+MBR-01593,Abu Dhabi,Hypertension,16319
+MBR-01594,Abu Dhabi,Diabetes + Hypertension,41925
+MBR-01595,Dubai,Diabetes,35795
+MBR-01596,Abu Dhabi,Diabetes,33276
+MBR-01597,Ajman,Hypertension,20829
+MBR-01598,Other,Diabetes + Cardiac,93068
+MBR-01599,Dubai,Diabetes,36859
+MBR-01600,Dubai,Hypertension,10550
+MBR-01601,Abu Dhabi,Hypertension,18135
+MBR-01602,Abu Dhabi,Diabetes,28617
+MBR-01603,Abu Dhabi,Diabetes,29168
+MBR-01604,Abu Dhabi,Diabetes,25814
+MBR-01605,Ajman,Diabetes + Hypertension,37976
+MBR-01606,Abu Dhabi,Diabetes,29772
+MBR-01607,Dubai,Hypertension,16228
+MBR-01608,Other,Cardiac,52077
+MBR-01609,Dubai,Diabetes,24526
+MBR-01610,Dubai,Diabetes + Hypertension,42245
+MBR-01611,Abu Dhabi,Hypertension,15124
+MBR-01612,Abu Dhabi,Diabetes,35618
+MBR-01613,Other,Hypertension,21501
+MBR-01614,Dubai,Diabetes + Hypertension,45631
+MBR-01615,Abu Dhabi,Diabetes,30486
+MBR-01616,Abu Dhabi,Cardiac,74275
+MBR-01617,Ajman,Cardiac,61535
+MBR-01618,Abu Dhabi,Cardiac,61025
+MBR-01619,Dubai,Diabetes,21188
+MBR-01620,Abu Dhabi,Diabetes,33423
+MBR-01621,Dubai,Diabetes + Hypertension,51778
+MBR-01622,Abu Dhabi,Hypertension,13911
+MBR-01623,Dubai,Diabetes + Cardiac,70324
+MBR-01624,Abu Dhabi,Diabetes + Hypertension,54425
+MBR-01625,Dubai,Cardiac,63904
+MBR-01626,Abu Dhabi,Hypertension,16059
+MBR-01627,Abu Dhabi,Diabetes,29746
+MBR-01628,Abu Dhabi,Diabetes + Cardiac,62436
+MBR-01629,Other,Diabetes + Cardiac,66168
+MBR-01630,Other,Diabetes,25992
+MBR-01631,Dubai,Hypertension,25825
+MBR-01632,Abu Dhabi,Hypertension,19260
+MBR-01633,Other,Diabetes,37807
+MBR-01634,Dubai,Hypertension,20948
+MBR-01635,Other,Cardiac,72068
+MBR-01636,Abu Dhabi,Diabetes,23562
+MBR-01637,Abu Dhabi,Hypertension,15258
+MBR-01638,Dubai,Cardiac,45165
+MBR-01639,Dubai,Diabetes,29599
+MBR-01640,Dubai,Diabetes + Cardiac,53720
+MBR-01641,Dubai,Hypertension,21326
+MBR-01642,Dubai,Hypertension,17793
+MBR-01643,Dubai,Diabetes + Hypertension,44789
+MBR-01644,Other,Diabetes,26544
+MBR-01645,Abu Dhabi,Diabetes + Hypertension,62065
+MBR-01646,Dubai,Hypertension,26775
+MBR-01647,Dubai,Diabetes,29349
+MBR-01648,Abu Dhabi,Cardiac,54033
+MBR-01649,Dubai,Cardiac,50791
+MBR-01650,Abu Dhabi,Cardiac,55199
+MBR-01651,Dubai,Hypertension,19244
+MBR-01652,Other,Diabetes + Cardiac,63780
+MBR-01653,Other,Cardiac,56737
+MBR-01654,Dubai,Hypertension,19887
+MBR-01655,Dubai,Diabetes,37087
+MBR-01656,Abu Dhabi,Diabetes + Hypertension,43328
+MBR-01657,Abu Dhabi,Hypertension,20101
+MBR-01658,Dubai,Diabetes,31234
+MBR-01659,Ajman,Diabetes,39518
+MBR-01660,Abu Dhabi,Diabetes + Hypertension,41780
+MBR-01661,Dubai,Hypertension,23088
+MBR-01662,Dubai,Hypertension,26657
+MBR-01663,Abu Dhabi,Diabetes + Cardiac,100149
+MBR-01664,Dubai,Hypertension,26995
+MBR-01665,Other,Cardiac,70443
+MBR-01666,Other,Diabetes + Hypertension,59720
+MBR-01667,Other,Diabetes,30068
+MBR-01668,Dubai,Diabetes,30446
+MBR-01669,Dubai,Diabetes + Hypertension,69500
+MBR-01670,Abu Dhabi,Cardiac,55299
+MBR-01671,Dubai,Cardiac,54444
+MBR-01672,Abu Dhabi,Hypertension,20662
+MBR-01673,Other,Diabetes,29499
+MBR-01674,Dubai,Diabetes + Hypertension,49520
+MBR-01675,Abu Dhabi,Hypertension,25077
+MBR-01676,Dubai,Diabetes + Cardiac,71058
+MBR-01677,Dubai,Diabetes + Cardiac,71776
+MBR-01678,Dubai,Cardiac,55027
+MBR-01679,Abu Dhabi,Hypertension,26557
+MBR-01680,Abu Dhabi,Hypertension,20140
+MBR-01681,Abu Dhabi,Diabetes,30936
+MBR-01682,Other,Diabetes + Cardiac,75220
+MBR-01683,Abu Dhabi,Hypertension,21633
+MBR-01684,Abu Dhabi,Diabetes + Cardiac,79847
+MBR-01685,Ajman,Hypertension,17011
+MBR-01686,Other,Hypertension,24740
+MBR-01687,Other,Diabetes,39943
+MBR-01688,Ajman,Diabetes,29898
+MBR-01689,Dubai,Diabetes,34998
+MBR-01690,Dubai,Diabetes,31034
+MBR-01691,Ajman,Diabetes,29652
+MBR-01692,Abu Dhabi,Diabetes,21699
+MBR-01693,Other,Hypertension,24335
+MBR-01694,Other,Diabetes + Hypertension,36407
+MBR-01695,Dubai,Hypertension,25839
+MBR-01696,Abu Dhabi,Diabetes,41052
+MBR-01697,Other,Hypertension,18992
+MBR-01698,Other,Diabetes + Cardiac,81230
+MBR-01699,Abu Dhabi,Hypertension,21093
+MBR-01700,Other,Diabetes,37797
+MBR-01701,Dubai,Diabetes,36055
+MBR-01702,Ajman,Diabetes,34277
+MBR-01703,Other,Diabetes + Hypertension,54819
+MBR-01704,Abu Dhabi,Diabetes + Cardiac,59657
+MBR-01705,Dubai,Hypertension,21358
+MBR-01706,Dubai,Diabetes,31141
+MBR-01707,Dubai,Diabetes + Hypertension,34750
+MBR-01708,Abu Dhabi,Cardiac,71638
+MBR-01709,Other,Hypertension,24013
+MBR-01710,Dubai,Diabetes,36776
+MBR-01711,Abu Dhabi,Hypertension,22687
+MBR-01712,Abu Dhabi,Cardiac,68302
+MBR-01713,Dubai,Cardiac,60055
+MBR-01714,Abu Dhabi,Diabetes,38963
+MBR-01715,Abu Dhabi,Diabetes,30037
+MBR-01716,Other,Cardiac,32061
+MBR-01717,Abu Dhabi,Hypertension,23323
+MBR-01718,Dubai,Cardiac,61368
+MBR-01719,Abu Dhabi,Diabetes,32583
+MBR-01720,Abu Dhabi,Diabetes + Hypertension,49954
+MBR-01721,Other,Cardiac,34884
+MBR-01722,Ajman,Hypertension,23612
+MBR-01723,Other,Hypertension,29026
+MBR-01724,Ajman,Diabetes + Hypertension,41989
+MBR-01725,Abu Dhabi,Hypertension,22100
+MBR-01726,Abu Dhabi,Diabetes,33364
+MBR-01727,Dubai,Diabetes + Hypertension,58818
+MBR-01728,Abu Dhabi,Diabetes + Hypertension,43931
+MBR-01729,Other,Hypertension,33077
+MBR-01730,Abu Dhabi,Diabetes,34293
+MBR-01731,Other,Diabetes,30436
+MBR-01732,Abu Dhabi,Hypertension,19042
+MBR-01733,Abu Dhabi,Diabetes,24885
+MBR-01734,Other,Hypertension,27558
+MBR-01735,Abu Dhabi,Diabetes,32712
+MBR-01736,Abu Dhabi,Cardiac,57976
+MBR-01737,Dubai,Hypertension,24290
+MBR-01738,Other,Diabetes,39273
+MBR-01739,Dubai,Diabetes,35877
+MBR-01740,Abu Dhabi,Diabetes,29841
+MBR-01741,Other,Diabetes + Hypertension,37287
+MBR-01742,Abu Dhabi,Cardiac,34685
+MBR-01743,Dubai,Diabetes + Cardiac,73501
+MBR-01744,Other,Cardiac,73076
+MBR-01745,Dubai,Diabetes + Hypertension,31000
+MBR-01746,Abu Dhabi,Hypertension,25881
+MBR-01747,Dubai,Hypertension,24917
+MBR-01748,Other,Hypertension,28524
+MBR-01749,Ajman,Diabetes,35666
+MBR-01750,Other,Diabetes + Cardiac,56868
+MBR-01751,Abu Dhabi,Diabetes + Hypertension,41641
+MBR-01752,Dubai,Diabetes,27454
+MBR-01753,Abu Dhabi,Hypertension,20986
+MBR-01754,Dubai,Diabetes + Hypertension,57602
+MBR-01755,Dubai,Diabetes + Hypertension,35537
+MBR-01756,Ajman,Hypertension,17458
+MBR-01757,Abu Dhabi,Hypertension,22855
+MBR-01758,Other,Diabetes,27558
+MBR-01759,Other,Diabetes,38865
+MBR-01760,Abu Dhabi,Diabetes,32137
+MBR-01761,Other,Diabetes + Hypertension,50766
+MBR-01762,Dubai,Diabetes + Cardiac,72750
+MBR-01763,Other,Cardiac,41210
+MBR-01764,Other,Hypertension,21972
+MBR-01765,Abu Dhabi,Diabetes,37640
+MBR-01766,Other,Hypertension,20395
+MBR-01767,Dubai,Hypertension,23160
+MBR-01768,Dubai,Diabetes,25610
+MBR-01769,Dubai,Diabetes + Hypertension,57681
+MBR-01770,Dubai,Hypertension,19840
+MBR-01771,Abu Dhabi,Diabetes,37154
+MBR-01772,Dubai,Diabetes + Hypertension,46930
+MBR-01773,Dubai,Diabetes,34491
+MBR-01774,Other,Diabetes + Hypertension,56265
+MBR-01775,Dubai,Diabetes + Hypertension,48306
+MBR-01776,Abu Dhabi,Diabetes,14110
+MBR-01777,Abu Dhabi,Diabetes,27076
+MBR-01778,Abu Dhabi,Diabetes + Cardiac,72628
+MBR-01779,Other,Cardiac,49076
+MBR-01780,Abu Dhabi,Hypertension,16674
+MBR-01781,Other,Diabetes,36690
+MBR-01782,Abu Dhabi,Diabetes,30992
+MBR-01783,Dubai,Diabetes + Cardiac,73361
+MBR-01784,Other,Cardiac,63015
+MBR-01785,Dubai,Hypertension,18458
+MBR-01786,Abu Dhabi,Hypertension,24891
+MBR-01787,Dubai,Hypertension,15603
+MBR-01788,Dubai,Hypertension,16924
+MBR-01789,Abu Dhabi,Diabetes,32713
+MBR-01790,Dubai,Diabetes,35095
+MBR-01791,Abu Dhabi,Hypertension,22837
+MBR-01792,Abu Dhabi,Diabetes,30456
+MBR-01793,Dubai,Hypertension,19639
+MBR-01794,Other,Diabetes + Cardiac,62840
+MBR-01795,Other,Hypertension,22009
+MBR-01796,Other,Hypertension,25779
+MBR-01797,Other,Diabetes,24204
+MBR-01798,Abu Dhabi,Diabetes + Cardiac,82925
+MBR-01799,Other,Diabetes,32691
+MBR-01800,Abu Dhabi,Diabetes,38051
+MBR-01801,Ajman,Hypertension,24352
+MBR-01802,Abu Dhabi,Diabetes + Hypertension,55357
+MBR-01803,Ajman,Diabetes + Cardiac,53334
+MBR-01804,Dubai,Diabetes,36088
+MBR-01805,Dubai,Diabetes + Cardiac,76845
+MBR-01806,Dubai,Diabetes,26946
+MBR-01807,Dubai,Diabetes,28809
+MBR-01808,Dubai,Diabetes,35960
+MBR-01809,Dubai,Diabetes,37804
+MBR-01810,Other,Hypertension,29097
+MBR-01811,Dubai,Diabetes,16605
+MBR-01812,Abu Dhabi,Hypertension,23158
+MBR-01813,Dubai,Hypertension,24328
+MBR-01814,Dubai,Cardiac,80184
+MBR-01815,Abu Dhabi,Hypertension,12565
+MBR-01816,Dubai,Cardiac,58500
+MBR-01817,Abu Dhabi,Cardiac,63853
+MBR-01818,Dubai,Diabetes + Hypertension,40925
+MBR-01819,Other,Diabetes,30217
+MBR-01820,Other,Cardiac,59943
+MBR-01821,Other,Diabetes + Hypertension,36243
+MBR-01822,Abu Dhabi,Hypertension,25509
+MBR-01823,Other,Cardiac,54445
+MBR-01824,Dubai,Diabetes + Cardiac,68720
+MBR-01825,Abu Dhabi,Diabetes + Cardiac,95174
+MBR-01826,Abu Dhabi,Diabetes,30780
+MBR-01827,Other,Diabetes + Cardiac,67025
+MBR-01828,Abu Dhabi,Diabetes + Hypertension,50571
+MBR-01829,Abu Dhabi,Hypertension,14751
+MBR-01830,Abu Dhabi,Diabetes + Hypertension,39745
+MBR-01831,Dubai,Diabetes,34008
+MBR-01832,Dubai,Diabetes + Hypertension,56529
+MBR-01833,Abu Dhabi,Cardiac,67408
+MBR-01834,Dubai,Hypertension,22891
+MBR-01835,Ajman,Hypertension,22733
+MBR-01836,Other,Hypertension,24212
+MBR-01837,Dubai,Diabetes + Cardiac,74461
+MBR-01838,Abu Dhabi,Diabetes,37662
+MBR-01839,Dubai,Diabetes,30673
+MBR-01840,Dubai,Diabetes,32761
+MBR-01841,Abu Dhabi,Hypertension,11150
+MBR-01842,Other,Diabetes,37179
+MBR-01843,Other,Hypertension,18530
+MBR-01844,Dubai,Diabetes,29635
+MBR-01845,Other,Diabetes + Cardiac,70771
+MBR-01846,Dubai,Diabetes,24492
+MBR-01847,Dubai,Hypertension,21654
+MBR-01848,Abu Dhabi,Diabetes + Hypertension,58877
+MBR-01849,Dubai,Diabetes + Hypertension,44908
+MBR-01850,Abu Dhabi,Hypertension,26796
+MBR-01851,Other,Diabetes + Cardiac,71264
+MBR-01852,Abu Dhabi,Hypertension,28817
+MBR-01853,Abu Dhabi,Diabetes + Cardiac,82509
+MBR-01854,Other,Cardiac,70619
+MBR-01855,Abu Dhabi,Hypertension,23093
+MBR-01856,Dubai,Hypertension,17627
+MBR-01857,Abu Dhabi,Diabetes + Hypertension,39989
+MBR-01858,Dubai,Hypertension,21143
+MBR-01859,Abu Dhabi,Hypertension,20740
+MBR-01860,Other,Diabetes + Hypertension,30533
+MBR-01861,Dubai,Diabetes + Cardiac,76900
+MBR-01862,Dubai,Diabetes + Hypertension,49254
+MBR-01863,Other,Diabetes,32392
+MBR-01864,Ajman,Diabetes,33164
+MBR-01865,Other,Hypertension,12181
+MBR-01866,Abu Dhabi,Hypertension,12398
+MBR-01867,Dubai,Diabetes,41036
+MBR-01868,Abu Dhabi,Cardiac,79986
+MBR-01869,Dubai,Diabetes + Cardiac,67863
+MBR-01870,Other,Cardiac,52193
+MBR-01871,Dubai,Diabetes + Cardiac,66288
+MBR-01872,Dubai,Diabetes,31300
+MBR-01873,Abu Dhabi,Hypertension,21277
+MBR-01874,Other,Cardiac,73856
+MBR-01875,Dubai,Diabetes + Hypertension,43466
+MBR-01876,Dubai,Diabetes,28222
+MBR-01877,Dubai,Hypertension,18906
+MBR-01878,Dubai,Diabetes,24290
+MBR-01879,Other,Diabetes,37568
+MBR-01880,Other,Hypertension,17244
+MBR-01881,Other,Diabetes,35759
+MBR-01882,Dubai,Diabetes,32563
+MBR-01883,Ajman,Diabetes,31372
+MBR-01884,Dubai,Diabetes + Hypertension,44894
+MBR-01885,Abu Dhabi,Diabetes + Hypertension,51235
+MBR-01886,Other,Hypertension,20825
+MBR-01887,Dubai,Diabetes + Cardiac,67906
+MBR-01888,Other,Hypertension,18167
+MBR-01889,Ajman,Diabetes,26046
+MBR-01890,Abu Dhabi,Hypertension,22778
+MBR-01891,Other,Diabetes,36525
+MBR-01892,Other,Diabetes + Hypertension,50003
+MBR-01893,Abu Dhabi,Hypertension,21707
+MBR-01894,Dubai,Hypertension,24615
+MBR-01895,Dubai,Cardiac,59520
+MBR-01896,Dubai,Cardiac,55335
+MBR-01897,Dubai,Diabetes + Hypertension,36916
+MBR-01898,Abu Dhabi,Diabetes + Hypertension,45251
+MBR-01899,Dubai,Diabetes + Cardiac,78947
+MBR-01900,Abu Dhabi,Cardiac,47117
+MBR-01901,Abu Dhabi,Diabetes,42409
+MBR-01902,Abu Dhabi,Hypertension,21412
+MBR-01903,Other,Cardiac,51489
+MBR-01904,Abu Dhabi,Hypertension,22861
+MBR-01905,Abu Dhabi,Diabetes + Hypertension,33472
+MBR-01906,Ajman,Diabetes,38935
+MBR-01907,Ajman,Diabetes,44889
+MBR-01908,Abu Dhabi,Hypertension,20428
+MBR-01909,Abu Dhabi,Cardiac,58727
+MBR-01910,Abu Dhabi,Diabetes,24072
+MBR-01911,Abu Dhabi,Cardiac,57720
+MBR-01912,Abu Dhabi,Diabetes,35476
+MBR-01913,Other,Hypertension,18980
+MBR-01914,Dubai,Diabetes,37864
+MBR-01915,Other,Diabetes,31554
+MBR-01916,Dubai,Diabetes,48102
+MBR-01917,Dubai,Hypertension,26077
+MBR-01918,Ajman,Diabetes + Hypertension,52013
+MBR-01919,Abu Dhabi,Hypertension,22531
+MBR-01920,Other,Diabetes,32347
+MBR-01921,Abu Dhabi,Hypertension,24053
+MBR-01922,Other,Cardiac,65039
+MBR-01923,Abu Dhabi,Cardiac,53116
+MBR-01924,Dubai,Hypertension,22685
+MBR-01925,Abu Dhabi,Hypertension,14862
+MBR-01926,Dubai,Cardiac,49366
+MBR-01927,Dubai,Hypertension,18875
+MBR-01928,Dubai,Diabetes + Hypertension,41153
+MBR-01929,Other,Cardiac,61983
+MBR-01930,Other,Diabetes + Hypertension,39819
+MBR-01931,Abu Dhabi,Diabetes,20649
+MBR-01932,Other,Hypertension,21320
+MBR-01933,Abu Dhabi,Diabetes,32160
+MBR-01934,Abu Dhabi,Cardiac,67542
+MBR-01935,Dubai,Hypertension,25778
+MBR-01936,Abu Dhabi,Hypertension,22508
+MBR-01937,Dubai,Hypertension,25374
+MBR-01938,Other,Hypertension,27348
+MBR-01939,Dubai,Diabetes + Cardiac,78680
+MBR-01940,Ajman,Diabetes,32062
+MBR-01941,Other,Cardiac,58882
+MBR-01942,Dubai,Diabetes,32140
+MBR-01943,Abu Dhabi,Hypertension,23755
+MBR-01944,Dubai,Cardiac,74976
+MBR-01945,Abu Dhabi,Hypertension,22245
+MBR-01946,Other,Hypertension,30047
+MBR-01947,Other,Diabetes,33507
+MBR-01948,Abu Dhabi,Hypertension,20490
+MBR-01949,Dubai,Diabetes + Cardiac,66124
+MBR-01950,Dubai,Hypertension,25814
+MBR-01951,Abu Dhabi,Cardiac,43072
+MBR-01952,Abu Dhabi,Diabetes + Cardiac,77661
+MBR-01953,Dubai,Diabetes + Cardiac,79963
+MBR-01954,Dubai,Diabetes,21205
+MBR-01955,Ajman,Diabetes,40864
+MBR-01956,Other,Diabetes,30535
+MBR-01957,Dubai,Diabetes,31447
+MBR-01958,Abu Dhabi,Diabetes,25029
+MBR-01959,Ajman,Diabetes,24727
+MBR-01960,Abu Dhabi,Diabetes,31901
+MBR-01961,Dubai,Cardiac,54192
+MBR-01962,Abu Dhabi,Diabetes,46068
+MBR-01963,Abu Dhabi,Hypertension,18011
+MBR-01964,Other,Cardiac,76577
+MBR-01965,Abu Dhabi,Cardiac,61687
+MBR-01966,Abu Dhabi,Diabetes + Cardiac,95350
+MBR-01967,Other,Diabetes + Hypertension,49191
+MBR-01968,Abu Dhabi,Cardiac,65847
+MBR-01969,Dubai,Hypertension,22761
+MBR-01970,Dubai,Cardiac,52393
+MBR-01971,Other,Diabetes + Hypertension,46993
+MBR-01972,Dubai,Diabetes + Cardiac,78245
+MBR-01973,Dubai,Diabetes,37559
+MBR-01974,Dubai,Diabetes + Hypertension,63490
+MBR-01975,Dubai,Diabetes,38959
+MBR-01976,Abu Dhabi,Cardiac,62582
+MBR-01977,Abu Dhabi,Hypertension,13955
+MBR-01978,Abu Dhabi,Hypertension,19199
+MBR-01979,Abu Dhabi,Cardiac,59692
+MBR-01980,Other,Diabetes,23070
+MBR-01981,Dubai,Cardiac,60476
+MBR-01982,Abu Dhabi,Cardiac,46234
+MBR-01983,Dubai,Diabetes,25729
+MBR-01984,Dubai,Diabetes,28722
+MBR-01985,Other,Hypertension,15195
+MBR-01986,Dubai,Hypertension,15221
+MBR-01987,Abu Dhabi,Diabetes + Hypertension,49634
+MBR-01988,Dubai,Diabetes + Cardiac,79715
+MBR-01989,Dubai,Diabetes,27501
+MBR-01990,Other,Hypertension,23980
+MBR-01991,Ajman,Diabetes,14233
+MBR-01992,Dubai,Diabetes + Cardiac,66681
+MBR-01993,Other,Cardiac,54128
+MBR-01994,Dubai,Diabetes + Cardiac,89446
+MBR-01995,Other,Diabetes,25742
+MBR-01996,Dubai,Hypertension,23494
+MBR-01997,Other,Diabetes + Cardiac,69912
+MBR-01998,Dubai,Diabetes,32442
+MBR-01999,Abu Dhabi,Diabetes,33741
+MBR-02000,Dubai,Diabetes + Cardiac,69670
+MBR-02001,Abu Dhabi,Hypertension,21702
+MBR-02002,Ajman,Hypertension,27502
+MBR-02003,Abu Dhabi,Hypertension,13404
+MBR-02004,Dubai,Hypertension,23165
+MBR-02005,Dubai,Diabetes,27337
+MBR-02006,Dubai,Diabetes + Cardiac,75431
+MBR-02007,Ajman,Hypertension,18115
+MBR-02008,Abu Dhabi,Hypertension,17786
+MBR-02009,Abu Dhabi,Cardiac,64164
+MBR-02010,Abu Dhabi,Diabetes + Hypertension,44742
+MBR-02011,Dubai,Hypertension,20154
+MBR-02012,Dubai,Hypertension,22904
+MBR-02013,Abu Dhabi,Diabetes + Cardiac,73113
+MBR-02014,Abu Dhabi,Diabetes,26026
+MBR-02015,Dubai,Cardiac,52624
+MBR-02016,Ajman,Diabetes,35296
+MBR-02017,Abu Dhabi,Hypertension,17837
+MBR-02018,Other,Hypertension,22288
+MBR-02019,Dubai,Diabetes,31273
+MBR-02020,Abu Dhabi,Diabetes + Cardiac,58655
+MBR-02021,Abu Dhabi,Diabetes + Cardiac,74085
+MBR-02022,Abu Dhabi,Cardiac,64699
+MBR-02023,Abu Dhabi,Diabetes,25352
+MBR-02024,Dubai,Hypertension,18173
+MBR-02025,Ajman,Hypertension,19876
+MBR-02026,Dubai,Diabetes,26782
+MBR-02027,Other,Diabetes + Hypertension,35671
+MBR-02028,Abu Dhabi,Hypertension,21545
+MBR-02029,Ajman,Hypertension,21597
+MBR-02030,Dubai,Hypertension,18407
+MBR-02031,Dubai,Hypertension,15891
+MBR-02032,Abu Dhabi,Cardiac,53424
+MBR-02033,Abu Dhabi,Hypertension,20041
+MBR-02034,Ajman,Diabetes,25441
+MBR-02035,Abu Dhabi,Diabetes,34157
+MBR-02036,Dubai,Cardiac,61553
+MBR-02037,Ajman,Diabetes + Cardiac,92968
+MBR-02038,Other,Diabetes,36729
+MBR-02039,Dubai,Hypertension,21888
+MBR-02040,Dubai,Diabetes + Cardiac,78929
+MBR-02041,Ajman,Diabetes + Cardiac,69765
+MBR-02042,Abu Dhabi,Cardiac,43230
+MBR-02043,Other,Diabetes,32989
+MBR-02044,Abu Dhabi,Diabetes + Hypertension,45854
+MBR-02045,Dubai,Diabetes,31515
+MBR-02046,Dubai,Hypertension,15660
+MBR-02047,Dubai,Diabetes,22734
+MBR-02048,Dubai,Cardiac,58548
+MBR-02049,Abu Dhabi,Hypertension,24184
+MBR-02050,Abu Dhabi,Cardiac,60465
+MBR-02051,Dubai,Hypertension,21174
+MBR-02052,Dubai,Cardiac,47916
+MBR-02053,Dubai,Diabetes,21919
+MBR-02054,Abu Dhabi,Diabetes + Cardiac,68891
+MBR-02055,Abu Dhabi,Diabetes + Hypertension,45069
+MBR-02056,Other,Diabetes,34163
+MBR-02057,Dubai,Diabetes + Hypertension,43651
+MBR-02058,Other,Hypertension,17990
+MBR-02059,Abu Dhabi,Diabetes,33741
+MBR-02060,Dubai,Diabetes,29595
+MBR-02061,Abu Dhabi,Cardiac,60357
+MBR-02062,Ajman,Cardiac,54031
+MBR-02063,Dubai,Diabetes,31948
+MBR-02064,Abu Dhabi,Diabetes + Hypertension,52267
+MBR-02065,Abu Dhabi,Cardiac,63087
+MBR-02066,Dubai,Diabetes,35518
+MBR-02067,Abu Dhabi,Diabetes,41141
+MBR-02068,Dubai,Diabetes + Cardiac,82698
+MBR-02069,Other,Hypertension,22160
+MBR-02070,Dubai,Diabetes,13800
+MBR-02071,Dubai,Diabetes + Cardiac,62454
+MBR-02072,Abu Dhabi,Diabetes,29571
+MBR-02073,Other,Diabetes + Hypertension,46827
+MBR-02074,Abu Dhabi,Hypertension,22169
+MBR-02075,Dubai,Diabetes + Hypertension,48899
+MBR-02076,Dubai,Diabetes,24556
+MBR-02077,Other,Diabetes,35065
+MBR-02078,Abu Dhabi,Cardiac,66828
+MBR-02079,Dubai,Cardiac,64056
+MBR-02080,Other,Diabetes,25885
+MBR-02081,Abu Dhabi,Diabetes + Hypertension,44908
+MBR-02082,Dubai,Diabetes,26285
+MBR-02083,Dubai,Diabetes + Cardiac,85860
+MBR-02084,Dubai,Cardiac,53638
+MBR-02085,Dubai,Hypertension,25423
+MBR-02086,Other,Hypertension,18018
+MBR-02087,Dubai,Diabetes,40284
+MBR-02088,Dubai,Hypertension,25822
+MBR-02089,Abu Dhabi,Diabetes,41840
+MBR-02090,Dubai,Cardiac,45526
+MBR-02091,Abu Dhabi,Cardiac,49949
+MBR-02092,Abu Dhabi,Cardiac,53819
+MBR-02093,Ajman,Cardiac,66903
+MBR-02094,Abu Dhabi,Diabetes,38458
+MBR-02095,Dubai,Diabetes + Cardiac,93285
+MBR-02096,Abu Dhabi,Diabetes + Hypertension,61384
+MBR-02097,Abu Dhabi,Hypertension,21644
+MBR-02098,Dubai,Hypertension,22868
+MBR-02099,Dubai,Cardiac,43356
+MBR-02100,Dubai,Cardiac,58952
+MBR-02101,Other,Hypertension,22554
+MBR-02102,Dubai,Diabetes,29488
+MBR-02103,Other,Hypertension,23604
+MBR-02104,Ajman,Diabetes + Hypertension,43589
+MBR-02105,Other,Diabetes + Cardiac,72536
+MBR-02106,Dubai,Cardiac,60245
+MBR-02107,Abu Dhabi,Hypertension,29097
+MBR-02108,Dubai,Diabetes,29207
+MBR-02109,Dubai,Diabetes,35114
+MBR-02110,Dubai,Cardiac,63599
+MBR-02111,Other,Diabetes,29704
+MBR-02112,Abu Dhabi,Diabetes + Cardiac,85602
+MBR-02113,Dubai,Diabetes + Hypertension,33821
+MBR-02114,Abu Dhabi,Diabetes,35580
+MBR-02115,Abu Dhabi,Cardiac,60101
+MBR-02116,Dubai,Cardiac,61117
+MBR-02117,Abu Dhabi,Hypertension,22547
+MBR-02118,Dubai,Hypertension,24802
+MBR-02119,Dubai,Diabetes + Cardiac,74610
+MBR-02120,Other,Diabetes,29019
+MBR-02121,Dubai,Hypertension,17585
+MBR-02122,Abu Dhabi,Diabetes + Cardiac,84748
+MBR-02123,Ajman,Hypertension,22606
+MBR-02124,Ajman,Diabetes + Cardiac,92340
+MBR-02125,Other,Diabetes,34570
+MBR-02126,Dubai,Diabetes + Hypertension,64615
+MBR-02127,Dubai,Diabetes,25051
+MBR-02128,Other,Diabetes + Hypertension,62098
+MBR-02129,Other,Diabetes,30977
+MBR-02130,Abu Dhabi,Diabetes + Cardiac,58678
+MBR-02131,Dubai,Diabetes + Cardiac,70974
+MBR-02132,Dubai,Cardiac,72841
+MBR-02133,Dubai,Diabetes,29553
+MBR-02134,Abu Dhabi,Hypertension,28094
+MBR-02135,Dubai,Diabetes + Hypertension,34629
+MBR-02136,Abu Dhabi,Diabetes,36014
+MBR-02137,Abu Dhabi,Hypertension,17687
+MBR-02138,Ajman,Diabetes + Hypertension,50879
+MBR-02139,Dubai,Hypertension,25386
+MBR-02140,Abu Dhabi,Hypertension,20416
+MBR-02141,Dubai,Diabetes,30778
+MBR-02142,Abu Dhabi,Hypertension,22430
+MBR-02143,Other,Diabetes,38912
+MBR-02144,Dubai,Diabetes + Cardiac,68990
+MBR-02145,Dubai,Diabetes,26649
+MBR-02146,Other,Diabetes + Hypertension,51286
+MBR-02147,Dubai,Diabetes + Cardiac,67665
+MBR-02148,Dubai,Diabetes + Hypertension,53550
+MBR-02149,Ajman,Diabetes,28653
+MBR-02150,Ajman,Diabetes + Cardiac,72420
+MBR-02151,Ajman,Hypertension,18153
+MBR-02152,Dubai,Diabetes,38095
+MBR-02153,Dubai,Hypertension,20582
+MBR-02154,Abu Dhabi,Diabetes + Hypertension,52985
+MBR-02155,Dubai,Diabetes + Cardiac,72574
+MBR-02156,Abu Dhabi,Cardiac,48456
+MBR-02157,Other,Cardiac,68290
+MBR-02158,Dubai,Diabetes + Hypertension,52730
+MBR-02159,Abu Dhabi,Cardiac,62122
+MBR-02160,Dubai,Diabetes,26980
+MBR-02161,Other,Hypertension,22253
+MBR-02162,Dubai,Hypertension,23924
+MBR-02163,Dubai,Diabetes,27400
+MBR-02164,Dubai,Diabetes + Hypertension,40545
+MBR-02165,Other,Cardiac,62040
+MBR-02166,Abu Dhabi,Diabetes,16759
+MBR-02167,Abu Dhabi,Diabetes + Hypertension,39257
+MBR-02168,Abu Dhabi,Diabetes,40259
+MBR-02169,Abu Dhabi,Diabetes + Hypertension,52477
+MBR-02170,Other,Diabetes + Hypertension,40556
+MBR-02171,Dubai,Diabetes + Hypertension,47933
+MBR-02172,Dubai,Diabetes + Cardiac,70172
+MBR-02173,Dubai,Cardiac,75506
+MBR-02174,Dubai,Cardiac,50660
+MBR-02175,Abu Dhabi,Hypertension,26412
+MBR-02176,Dubai,Hypertension,21302
+MBR-02177,Dubai,Hypertension,29039
+MBR-02178,Ajman,Diabetes + Cardiac,72963
+MBR-02179,Ajman,Hypertension,22394
+MBR-02180,Abu Dhabi,Diabetes + Hypertension,50258
+MBR-02181,Other,Diabetes + Cardiac,53966
+MBR-02182,Dubai,Hypertension,22014
+MBR-02183,Dubai,Diabetes,36691
+MBR-02184,Dubai,Cardiac,49141
+MBR-02185,Dubai,Diabetes + Cardiac,70897
+MBR-02186,Abu Dhabi,Diabetes + Cardiac,45340
+MBR-02187,Abu Dhabi,Diabetes + Hypertension,39495
+MBR-02188,Abu Dhabi,Hypertension,14202
+MBR-02189,Ajman,Diabetes + Cardiac,80236
+MBR-02190,Abu Dhabi,Hypertension,26087
+MBR-02191,Abu Dhabi,Hypertension,21938
+MBR-02192,Dubai,Diabetes + Hypertension,47503
+MBR-02193,Other,Hypertension,24565
+MBR-02194,Other,Diabetes + Hypertension,45239
+MBR-02195,Dubai,Diabetes + Hypertension,44122
+MBR-02196,Abu Dhabi,Cardiac,55955
+MBR-02197,Dubai,Diabetes + Hypertension,39273
+MBR-02198,Other,Diabetes,46259
+MBR-02199,Abu Dhabi,Hypertension,21387
+MBR-02200,Dubai,Cardiac,62990
+MBR-02201,Abu Dhabi,Diabetes,36181
+MBR-02202,Other,Hypertension,25962
+MBR-02203,Abu Dhabi,Diabetes,28750
+MBR-02204,Other,Diabetes,37396
+MBR-02205,Dubai,Cardiac,52143
+MBR-02206,Other,Hypertension,17751
+MBR-02207,Abu Dhabi,Cardiac,58635
+MBR-02208,Dubai,Cardiac,39376
+MBR-02209,Dubai,Diabetes + Hypertension,47200
+MBR-02210,Dubai,Diabetes + Cardiac,67357
+MBR-02211,Abu Dhabi,Diabetes + Cardiac,102317
+MBR-02212,Abu Dhabi,Hypertension,25308
+MBR-02213,Ajman,Hypertension,18889
+MBR-02214,Ajman,Diabetes,34475
+MBR-02215,Ajman,Diabetes,35816
+MBR-02216,Dubai,Diabetes + Hypertension,48428
+MBR-02217,Dubai,Diabetes + Hypertension,52103
+MBR-02218,Abu Dhabi,Diabetes,29459
+MBR-02219,Dubai,Cardiac,68557
+MBR-02220,Other,Cardiac,59898
+MBR-02221,Other,Hypertension,19982
+MBR-02222,Dubai,Hypertension,19377
+MBR-02223,Abu Dhabi,Hypertension,20028
+MBR-02224,Abu Dhabi,Cardiac,54106
+MBR-02225,Dubai,Cardiac,72177
+MBR-02226,Dubai,Cardiac,51981
+MBR-02227,Abu Dhabi,Cardiac,57371
+MBR-02228,Abu Dhabi,Diabetes + Hypertension,37282
+MBR-02229,Other,Diabetes,32672
+MBR-02230,Dubai,Hypertension,23645
+MBR-02231,Dubai,Diabetes + Cardiac,90730
+MBR-02232,Abu Dhabi,Diabetes,41619
+MBR-02233,Other,Diabetes + Cardiac,77970
+MBR-02234,Dubai,Diabetes + Cardiac,91759
+MBR-02235,Dubai,Hypertension,24742
+MBR-02236,Ajman,Cardiac,66463
+MBR-02237,Abu Dhabi,Diabetes,32170
+MBR-02238,Abu Dhabi,Diabetes,37842
+MBR-02239,Other,Hypertension,22962
+MBR-02240,Abu Dhabi,Hypertension,22099
+MBR-02241,Abu Dhabi,Diabetes + Hypertension,47185
+MBR-02242,Dubai,Cardiac,40797
+MBR-02243,Dubai,Hypertension,24080
+MBR-02244,Dubai,Hypertension,27660
+MBR-02245,Abu Dhabi,Cardiac,57352
+MBR-02246,Abu Dhabi,Hypertension,21569
+MBR-02247,Abu Dhabi,Diabetes + Hypertension,37503
+MBR-02248,Abu Dhabi,Hypertension,18913
+MBR-02249,Other,Hypertension,23673
+MBR-02250,Ajman,Diabetes,41856
+MBR-02251,Ajman,Hypertension,14115
+MBR-02252,Other,Hypertension,19349
+MBR-02253,Ajman,Cardiac,52188
+MBR-02254,Abu Dhabi,Hypertension,21448
+MBR-02255,Abu Dhabi,Diabetes + Cardiac,57097
+MBR-02256,Dubai,Hypertension,26699
+MBR-02257,Dubai,Diabetes + Hypertension,43035
+MBR-02258,Ajman,Hypertension,22299
+MBR-02259,Ajman,Diabetes,39217
+MBR-02260,Dubai,Hypertension,21688
+MBR-02261,Dubai,Diabetes + Hypertension,57145
+MBR-02262,Abu Dhabi,Hypertension,24582
+MBR-02263,Abu Dhabi,Hypertension,22246
+MBR-02264,Abu Dhabi,Diabetes + Hypertension,47895
+MBR-02265,Dubai,Cardiac,57211
+MBR-02266,Other,Diabetes,29306
+MBR-02267,Dubai,Diabetes + Hypertension,55286
+MBR-02268,Abu Dhabi,Cardiac,39440
+MBR-02269,Abu Dhabi,Diabetes + Cardiac,90944
+MBR-02270,Dubai,Diabetes,27563
+MBR-02271,Ajman,Diabetes + Hypertension,38290
+MBR-02272,Ajman,Cardiac,66311
+MBR-02273,Dubai,Diabetes,23052
+MBR-02274,Abu Dhabi,Hypertension,18198
+MBR-02275,Ajman,Cardiac,43447
+MBR-02276,Abu Dhabi,Hypertension,28351
+MBR-02277,Ajman,Diabetes + Hypertension,48921
+MBR-02278,Dubai,Diabetes,40578
+MBR-02279,Ajman,Diabetes + Hypertension,19500
+MBR-02280,Dubai,Diabetes + Cardiac,64392
+MBR-02281,Abu Dhabi,Diabetes,37049
+MBR-02282,Abu Dhabi,Diabetes,30736
+MBR-02283,Abu Dhabi,Diabetes,35914
+MBR-02284,Ajman,Cardiac,72986
+MBR-02285,Abu Dhabi,Hypertension,22549
+MBR-02286,Abu Dhabi,Diabetes,31887
+MBR-02287,Abu Dhabi,Diabetes,32624
+MBR-02288,Abu Dhabi,Hypertension,17813
+MBR-02289,Ajman,Diabetes + Hypertension,21191
+MBR-02290,Dubai,Diabetes + Cardiac,56199
+MBR-02291,Dubai,Diabetes + Hypertension,37371
+MBR-02292,Dubai,Diabetes + Hypertension,37456
+MBR-02293,Other,Cardiac,44321
+MBR-02294,Ajman,Diabetes,33730
+MBR-02295,Dubai,Diabetes + Hypertension,33215
+MBR-02296,Dubai,Diabetes,26508
+MBR-02297,Dubai,Cardiac,77422
+MBR-02298,Abu Dhabi,Diabetes + Hypertension,45935
+MBR-02299,Other,Diabetes + Hypertension,56008
+MBR-02300,Dubai,Cardiac,59577
+MBR-02301,Abu Dhabi,Diabetes + Hypertension,33782
+MBR-02302,Abu Dhabi,Diabetes + Hypertension,53387
+MBR-02303,Dubai,Hypertension,25378
+MBR-02304,Abu Dhabi,Cardiac,48424
+MBR-02305,Dubai,Diabetes,23881
+MBR-02306,Abu Dhabi,Diabetes + Hypertension,42285
+MBR-02307,Other,Hypertension,29182
+MBR-02308,Abu Dhabi,Diabetes + Hypertension,62571
+MBR-02309,Dubai,Diabetes,35297
+MBR-02310,Other,Diabetes,20886
+MBR-02311,Dubai,Hypertension,18496
+MBR-02312,Dubai,Diabetes,35342
+MBR-02313,Dubai,Diabetes,40065
+MBR-02314,Abu Dhabi,Diabetes + Cardiac,68478
+MBR-02315,Abu Dhabi,Diabetes,30387
+MBR-02316,Abu Dhabi,Diabetes,27007
+MBR-02317,Ajman,Hypertension,18870
+MBR-02318,Dubai,Diabetes + Hypertension,40143
+MBR-02319,Abu Dhabi,Diabetes,29309
+MBR-02320,Other,Diabetes,31087
+MBR-02321,Dubai,Diabetes + Cardiac,78655
+MBR-02322,Other,Diabetes,38314
+MBR-02323,Abu Dhabi,Diabetes + Hypertension,39552
+MBR-02324,Abu Dhabi,Cardiac,50448
+MBR-02325,Abu Dhabi,Diabetes,33522
+MBR-02326,Dubai,Diabetes + Cardiac,68512
+MBR-02327,Ajman,Cardiac,63417
+MBR-02328,Dubai,Hypertension,21015
+MBR-02329,Abu Dhabi,Hypertension,18885
+MBR-02330,Dubai,Hypertension,19975
+MBR-02331,Other,Diabetes + Cardiac,81312
+MBR-02332,Abu Dhabi,Diabetes + Hypertension,34130
+MBR-02333,Dubai,Diabetes,42753
+MBR-02334,Dubai,Diabetes,30276
+MBR-02335,Abu Dhabi,Cardiac,53964
+MBR-02336,Dubai,Diabetes + Cardiac,58624
+MBR-02337,Other,Hypertension,26224
+MBR-02338,Other,Hypertension,27026
+MBR-02339,Other,Hypertension,16710
+MBR-02340,Other,Diabetes,41662
+MBR-02341,Abu Dhabi,Diabetes,34238
+MBR-02342,Dubai,Hypertension,27334
+MBR-02343,Abu Dhabi,Diabetes + Hypertension,47973
+MBR-02344,Dubai,Cardiac,50257
+MBR-02345,Dubai,Cardiac,51387
+MBR-02346,Abu Dhabi,Hypertension,17561
+MBR-02347,Abu Dhabi,Diabetes,29550
+MBR-02348,Other,Hypertension,20678
+MBR-02349,Abu Dhabi,Diabetes + Cardiac,47406
+MBR-02350,Other,Diabetes + Hypertension,45502
+MBR-02351,Abu Dhabi,Diabetes + Cardiac,68940
+MBR-02352,Dubai,Diabetes,33873
+MBR-02353,Other,Diabetes + Hypertension,43903
+MBR-02354,Dubai,Diabetes + Hypertension,51633
+MBR-02355,Other,Cardiac,48616
+MBR-02356,Dubai,Hypertension,18851
+MBR-02357,Abu Dhabi,Diabetes,25924
+MBR-02358,Dubai,Diabetes + Hypertension,42963
+MBR-02359,Dubai,Hypertension,22328
+MBR-02360,Other,Diabetes,25688
+MBR-02361,Other,Diabetes,36811
+MBR-02362,Dubai,Diabetes + Hypertension,38552
+MBR-02363,Abu Dhabi,Diabetes,30045
+MBR-02364,Other,Hypertension,21742
+MBR-02365,Ajman,Cardiac,56285
+MBR-02366,Other,Diabetes,34542
+MBR-02367,Abu Dhabi,Cardiac,40705
+MBR-02368,Abu Dhabi,Hypertension,20181
+MBR-02369,Dubai,Hypertension,24112
+MBR-02370,Dubai,Hypertension,22577
+MBR-02371,Dubai,Hypertension,20341
+MBR-02372,Ajman,Diabetes + Hypertension,51469
+MBR-02373,Abu Dhabi,Diabetes,26133
+MBR-02374,Other,Diabetes + Cardiac,83402
+MBR-02375,Abu Dhabi,Diabetes + Cardiac,84415
+MBR-02376,Other,Diabetes + Cardiac,66057
+MBR-02377,Other,Hypertension,19681
+MBR-02378,Abu Dhabi,Diabetes + Hypertension,36322
+MBR-02379,Abu Dhabi,Diabetes + Hypertension,38576
+MBR-02380,Dubai,Diabetes + Cardiac,91882
+MBR-02381,Abu Dhabi,Diabetes + Hypertension,59939
+MBR-02382,Abu Dhabi,Diabetes + Hypertension,48805
+MBR-02383,Other,Diabetes,29667
+MBR-02384,Abu Dhabi,Diabetes,26894
+MBR-02385,Abu Dhabi,Diabetes,27292
+MBR-02386,Dubai,Hypertension,13380
+MBR-02387,Abu Dhabi,Diabetes,29728
+MBR-02388,Dubai,Hypertension,26317
+MBR-02389,Dubai,Diabetes + Hypertension,44988
+MBR-02390,Dubai,Diabetes + Cardiac,49113
+MBR-02391,Ajman,Cardiac,42308
+MBR-02392,Other,Hypertension,22923
+MBR-02393,Dubai,Hypertension,14442
+MBR-02394,Other,Diabetes + Hypertension,54145
+MBR-02395,Abu Dhabi,Diabetes,32773
+MBR-02396,Abu Dhabi,Diabetes + Cardiac,79494
+MBR-02397,Abu Dhabi,Hypertension,20735
+MBR-02398,Abu Dhabi,Diabetes,24442
+MBR-02399,Dubai,Diabetes,35911
+MBR-02400,Abu Dhabi,Diabetes + Hypertension,41287
+MBR-02401,Ajman,Hypertension,20060
+MBR-02402,Abu Dhabi,Hypertension,20559
+MBR-02403,Dubai,Diabetes,37601
+MBR-02404,Dubai,Hypertension,24710
+MBR-02405,Ajman,Diabetes + Cardiac,69051
+MBR-02406,Dubai,Diabetes + Hypertension,53590
+MBR-02407,Abu Dhabi,Diabetes,35275
+MBR-02408,Other,Hypertension,19908
+MBR-02409,Abu Dhabi,Cardiac,56810
+MBR-02410,Abu Dhabi,Diabetes,25364
+MBR-02411,Dubai,Cardiac,55746
+MBR-02412,Abu Dhabi,Diabetes,31196
+MBR-02413,Dubai,Diabetes,35435
+MBR-02414,Other,Diabetes + Hypertension,44253
+MBR-02415,Dubai,Diabetes + Cardiac,67970
+MBR-02416,Abu Dhabi,Diabetes + Cardiac,68543
+MBR-02417,Abu Dhabi,Cardiac,56651
+MBR-02418,Dubai,Diabetes + Cardiac,90237
+MBR-02419,Other,Diabetes,24229
+MBR-02420,Abu Dhabi,Cardiac,78106
+MBR-02421,Abu Dhabi,Hypertension,19420
+MBR-02422,Abu Dhabi,Hypertension,18609
+MBR-02423,Dubai,Hypertension,17045
+MBR-02424,Dubai,Diabetes + Cardiac,58099
+MBR-02425,Other,Diabetes,25252
+MBR-02426,Dubai,Diabetes,34761
+MBR-02427,Abu Dhabi,Hypertension,19601
+MBR-02428,Other,Diabetes + Hypertension,51402
+MBR-02429,Other,Diabetes + Hypertension,40691
+MBR-02430,Dubai,Diabetes,44784
+MBR-02431,Abu Dhabi,Diabetes + Hypertension,43248
+MBR-02432,Dubai,Hypertension,19406
+MBR-02433,Other,Diabetes + Cardiac,68756
+MBR-02434,Other,Diabetes + Hypertension,37599
+MBR-02435,Dubai,Cardiac,84604
+MBR-02436,Abu Dhabi,Diabetes + Cardiac,79960
+MBR-02437,Abu Dhabi,Diabetes + Hypertension,53150
+MBR-02438,Dubai,Diabetes,22471
+MBR-02439,Abu Dhabi,Diabetes,20293
+MBR-02440,Dubai,Hypertension,20261
+MBR-02441,Abu Dhabi,Hypertension,21703
+MBR-02442,Dubai,Hypertension,21134
+MBR-02443,Abu Dhabi,Hypertension,22812
+MBR-02444,Dubai,Cardiac,68135
+MBR-02445,Dubai,Diabetes + Hypertension,45373
+MBR-02446,Other,Diabetes + Hypertension,40288
+MBR-02447,Dubai,Diabetes + Hypertension,27754
+MBR-02448,Abu Dhabi,Hypertension,22292
+MBR-02449,Abu Dhabi,Hypertension,26322
+MBR-02450,Dubai,Diabetes,25545
+MBR-02451,Dubai,Hypertension,28038
+MBR-02452,Other,Diabetes + Hypertension,52661
+MBR-02453,Abu Dhabi,Diabetes + Cardiac,43168
+MBR-02454,Abu Dhabi,Diabetes,30597
+MBR-02455,Ajman,Hypertension,18237
+MBR-02456,Dubai,Diabetes,31221
+MBR-02457,Abu Dhabi,Cardiac,57016
+MBR-02458,Ajman,Diabetes + Hypertension,43778
+MBR-02459,Dubai,Hypertension,19735
+MBR-02460,Other,Diabetes,33838
+MBR-02461,Dubai,Diabetes + Hypertension,45158
+MBR-02462,Dubai,Diabetes,36494
+MBR-02463,Ajman,Hypertension,22086
+MBR-02464,Abu Dhabi,Hypertension,22086
+MBR-02465,Other,Hypertension,19199
+MBR-02466,Dubai,Diabetes,34453
+MBR-02467,Abu Dhabi,Diabetes + Hypertension,47832
+MBR-02468,Other,Hypertension,24793
+MBR-02469,Abu Dhabi,Diabetes + Hypertension,49698
+MBR-02470,Other,Diabetes + Hypertension,51198
+MBR-02471,Other,Diabetes + Hypertension,52482
+MBR-02472,Other,Diabetes,33389
+MBR-02473,Dubai,Diabetes + Cardiac,74894
+MBR-02474,Dubai,Hypertension,26325
+MBR-02475,Other,Diabetes,41126
+MBR-02476,Abu Dhabi,Diabetes,38113
+MBR-02477,Dubai,Hypertension,18528
+MBR-02478,Abu Dhabi,Hypertension,21759
+MBR-02479,Other,Diabetes,15862
+MBR-02480,Abu Dhabi,Hypertension,24853
+MBR-02481,Dubai,Cardiac,52332
+MBR-02482,Abu Dhabi,Hypertension,21258
+MBR-02483,Other,Diabetes + Hypertension,38456
+MBR-02484,Other,Diabetes + Cardiac,74328
+MBR-02485,Ajman,Hypertension,18300
+MBR-02486,Other,Diabetes + Cardiac,87994
+MBR-02487,Dubai,Hypertension,26135
+MBR-02488,Dubai,Diabetes + Cardiac,75968
+MBR-02489,Dubai,Diabetes + Cardiac,58590
+MBR-02490,Dubai,Diabetes,22536
+MBR-02491,Ajman,Diabetes,30268
+MBR-02492,Other,Cardiac,52703
+MBR-02493,Dubai,Diabetes,23935
+MBR-02494,Dubai,Diabetes,32075
+MBR-02495,Abu Dhabi,Cardiac,61059
+MBR-02496,Abu Dhabi,Diabetes,41978
+MBR-02497,Abu Dhabi,Diabetes + Hypertension,52402
+MBR-02498,Dubai,Diabetes,41553
+MBR-02499,Dubai,Diabetes + Cardiac,47966
+MBR-02500,Abu Dhabi,Cardiac,52056
+MBR-02501,Abu Dhabi,Diabetes + Hypertension,52923
+MBR-02502,Dubai,Diabetes + Cardiac,71880
+MBR-02503,Dubai,Diabetes + Hypertension,53519
+MBR-02504,Other,Diabetes + Cardiac,81945
+MBR-02505,Other,Hypertension,19746
+MBR-02506,Ajman,Diabetes,29518
+MBR-02507,Dubai,Cardiac,46138
+MBR-02508,Other,Hypertension,18823
+MBR-02509,Dubai,Diabetes,41610
+MBR-02510,Abu Dhabi,Diabetes,27984
+MBR-02511,Abu Dhabi,Diabetes,37512
+MBR-02512,Dubai,Diabetes + Cardiac,74410
+MBR-02513,Abu Dhabi,Diabetes + Hypertension,56551
+MBR-02514,Dubai,Hypertension,20610
+MBR-02515,Abu Dhabi,Diabetes,30795
+MBR-02516,Dubai,Diabetes + Cardiac,84829
+MBR-02517,Abu Dhabi,Diabetes + Cardiac,57035
+MBR-02518,Other,Hypertension,22766
+MBR-02519,Other,Hypertension,21791
+MBR-02520,Abu Dhabi,Cardiac,81397
+MBR-02521,Dubai,Diabetes + Cardiac,68863
+MBR-02522,Other,Diabetes + Hypertension,50482
+MBR-02523,Abu Dhabi,Diabetes + Cardiac,67492
+MBR-02524,Dubai,Diabetes + Cardiac,73681
+MBR-02525,Other,Hypertension,20080
+MBR-02526,Dubai,Diabetes + Hypertension,45208
+MBR-02527,Other,Hypertension,18751
+MBR-02528,Other,Cardiac,46351
+MBR-02529,Abu Dhabi,Diabetes,38050
+MBR-02530,Abu Dhabi,Diabetes,33243
+MBR-02531,Abu Dhabi,Diabetes,25401
+MBR-02532,Dubai,Hypertension,19306
+MBR-02533,Other,Cardiac,75035
+MBR-02534,Dubai,Diabetes + Hypertension,36048
+MBR-02535,Abu Dhabi,Diabetes,40554
+MBR-02536,Dubai,Diabetes,33394
+MBR-02537,Abu Dhabi,Hypertension,19588
+MBR-02538,Dubai,Cardiac,64145
+MBR-02539,Dubai,Diabetes,30077
+MBR-02540,Dubai,Diabetes + Hypertension,42571
+MBR-02541,Dubai,Diabetes,31567
+MBR-02542,Abu Dhabi,Hypertension,24070
+MBR-02543,Dubai,Cardiac,87479
+MBR-02544,Abu Dhabi,Diabetes,22363
+MBR-02545,Abu Dhabi,Diabetes,23994
+MBR-02546,Dubai,Hypertension,21202
+MBR-02547,Dubai,Diabetes + Hypertension,60728
+MBR-02548,Abu Dhabi,Hypertension,22583
+MBR-02549,Other,Hypertension,17885
+MBR-02550,Dubai,Diabetes,35531
+MBR-02551,Ajman,Diabetes + Hypertension,47073
+MBR-02552,Dubai,Diabetes,27336
+MBR-02553,Other,Diabetes + Hypertension,53288
+MBR-02554,Dubai,Diabetes,34132
+MBR-02555,Other,Diabetes,36896
+MBR-02556,Abu Dhabi,Diabetes + Hypertension,61149
+MBR-02557,Abu Dhabi,Hypertension,20145
+MBR-02558,Ajman,Cardiac,65096
+MBR-02559,Dubai,Hypertension,19585
+MBR-02560,Abu Dhabi,Hypertension,23972
+MBR-02561,Other,Diabetes,21337
+MBR-02562,Dubai,Cardiac,50686
+MBR-02563,Other,Cardiac,49107
+MBR-02564,Dubai,Diabetes,27981
+MBR-02565,Other,Diabetes + Cardiac,77331
+MBR-02566,Abu Dhabi,Cardiac,58076
+MBR-02567,Abu Dhabi,Diabetes + Hypertension,39271
+MBR-02568,Abu Dhabi,Hypertension,24454
+MBR-02569,Dubai,Diabetes,31461
+MBR-02570,Dubai,Diabetes,27481
+MBR-02571,Other,Diabetes,23505
+MBR-02572,Dubai,Diabetes + Cardiac,78783
+MBR-02573,Dubai,Cardiac,48552
+MBR-02574,Dubai,Diabetes,32718
+MBR-02575,Dubai,Diabetes,29687
+MBR-02576,Ajman,Cardiac,74741
+MBR-02577,Dubai,Cardiac,65226
+MBR-02578,Other,Hypertension,19464
+MBR-02579,Ajman,Hypertension,12951
+MBR-02580,Abu Dhabi,Hypertension,12592
+MBR-02581,Dubai,Diabetes + Hypertension,49481
+MBR-02582,Dubai,Cardiac,55955
+MBR-02583,Other,Diabetes,31331
+MBR-02584,Other,Cardiac,55400
+MBR-02585,Abu Dhabi,Diabetes + Cardiac,89481
+MBR-02586,Other,Diabetes + Hypertension,51268
+MBR-02587,Abu Dhabi,Hypertension,28926
+MBR-02588,Abu Dhabi,Hypertension,12599
+MBR-02589,Dubai,Diabetes,16871
+MBR-02590,Abu Dhabi,Diabetes + Cardiac,101512
+MBR-02591,Dubai,Cardiac,51955
+MBR-02592,Dubai,Diabetes,28809
+MBR-02593,Other,Hypertension,22458
+MBR-02594,Abu Dhabi,Hypertension,24819
+MBR-02595,Dubai,Diabetes + Cardiac,70222
+MBR-02596,Abu Dhabi,Diabetes + Hypertension,62718
+MBR-02597,Abu Dhabi,Diabetes,34886
+MBR-02598,Other,Diabetes,38178
+MBR-02599,Abu Dhabi,Diabetes,29133
+MBR-02600,Dubai,Diabetes,42656
+MBR-02601,Dubai,Hypertension,22009
+MBR-02602,Dubai,Diabetes + Hypertension,57080
+MBR-02603,Abu Dhabi,Diabetes,33087
+MBR-02604,Ajman,Hypertension,29408
+MBR-02605,Abu Dhabi,Cardiac,53200
+MBR-02606,Other,Hypertension,25697
+MBR-02607,Abu Dhabi,Diabetes,34434
+MBR-02608,Other,Hypertension,23388
+MBR-02609,Other,Diabetes,31810
+MBR-02610,Ajman,Diabetes + Cardiac,77557
+MBR-02611,Abu Dhabi,Hypertension,20133
+MBR-02612,Other,Diabetes + Hypertension,52421
+MBR-02613,Other,Hypertension,18281
+MBR-02614,Dubai,Diabetes,28308
+MBR-02615,Other,Diabetes + Cardiac,79288
+MBR-02616,Abu Dhabi,Diabetes,34538
+MBR-02617,Abu Dhabi,Cardiac,60716
+MBR-02618,Abu Dhabi,Diabetes,33017
+MBR-02619,Other,Diabetes + Hypertension,38559
+MBR-02620,Dubai,Diabetes + Cardiac,67834
+MBR-02621,Other,Diabetes,29536
+MBR-02622,Other,Diabetes,22036
+MBR-02623,Abu Dhabi,Diabetes + Hypertension,29486
+MBR-02624,Dubai,Hypertension,18995
+MBR-02625,Dubai,Hypertension,23468
+MBR-02626,Other,Hypertension,23022
+MBR-02627,Dubai,Diabetes + Cardiac,66395
+MBR-02628,Dubai,Diabetes,35063
+MBR-02629,Other,Diabetes + Hypertension,51866
+MBR-02630,Dubai,Hypertension,23430
+MBR-02631,Abu Dhabi,Diabetes,32366
+MBR-02632,Dubai,Diabetes,33751
+MBR-02633,Dubai,Diabetes + Hypertension,41477
+MBR-02634,Dubai,Diabetes,34400
+MBR-02635,Ajman,Cardiac,57935
+MBR-02636,Dubai,Diabetes,28704
+MBR-02637,Abu Dhabi,Diabetes + Cardiac,69058
+MBR-02638,Abu Dhabi,Diabetes + Cardiac,65770
+MBR-02639,Abu Dhabi,Hypertension,21447
+MBR-02640,Dubai,Diabetes + Hypertension,52695
+MBR-02641,Abu Dhabi,Cardiac,69034
+MBR-02642,Dubai,Hypertension,23530
+MBR-02643,Dubai,Hypertension,16963
+MBR-02644,Ajman,Diabetes + Hypertension,36185
+MBR-02645,Dubai,Hypertension,19346
+MBR-02646,Other,Hypertension,18010
+MBR-02647,Abu Dhabi,Diabetes,38056
+MBR-02648,Abu Dhabi,Cardiac,62502
+MBR-02649,Abu Dhabi,Cardiac,63710
+MBR-02650,Dubai,Diabetes + Hypertension,60763
+MBR-02651,Ajman,Diabetes + Hypertension,40569
+MBR-02652,Dubai,Diabetes + Hypertension,58001
+MBR-02653,Abu Dhabi,Hypertension,19833
+MBR-02654,Dubai,Hypertension,20974
+MBR-02655,Abu Dhabi,Diabetes + Hypertension,51381
+MBR-02656,Abu Dhabi,Hypertension,24303
+MBR-02657,Dubai,Cardiac,72867
+MBR-02658,Dubai,Diabetes + Hypertension,54498
+MBR-02659,Dubai,Hypertension,25053
+MBR-02660,Dubai,Diabetes + Cardiac,57298
+MBR-02661,Dubai,Diabetes + Hypertension,49514
+MBR-02662,Dubai,Diabetes + Cardiac,76218
+MBR-02663,Dubai,Diabetes,36096
+MBR-02664,Other,Diabetes,35446
+MBR-02665,Other,Hypertension,23202
+MBR-02666,Dubai,Diabetes + Hypertension,40902
+MBR-02667,Dubai,Diabetes,37245
+MBR-02668,Other,Cardiac,60897
+MBR-02669,Other,Diabetes + Hypertension,49053
+MBR-02670,Dubai,Diabetes + Cardiac,80630
+MBR-02671,Other,Diabetes,29800
+MBR-02672,Abu Dhabi,Diabetes,27650
+MBR-02673,Other,Diabetes,22627
+MBR-02674,Dubai,Diabetes + Cardiac,81708
+MBR-02675,Abu Dhabi,Diabetes,24710
+MBR-02676,Ajman,Diabetes,29883
+MBR-02677,Other,Diabetes + Cardiac,66688
+MBR-02678,Dubai,Diabetes + Cardiac,92591
+MBR-02679,Abu Dhabi,Hypertension,22150
+MBR-02680,Dubai,Diabetes + Cardiac,89941
+MBR-02681,Dubai,Hypertension,18346
+MBR-02682,Dubai,Diabetes,41514
+MBR-02683,Dubai,Diabetes,33008
+MBR-02684,Other,Diabetes + Cardiac,56260
+MBR-02685,Abu Dhabi,Hypertension,24503
+MBR-02686,Ajman,Diabetes,25515
+MBR-02687,Ajman,Diabetes,29594
+MBR-02688,Ajman,Cardiac,64904
+MBR-02689,Abu Dhabi,Diabetes,34981
+MBR-02690,Dubai,Diabetes + Hypertension,36920
+MBR-02691,Dubai,Cardiac,42918
+MBR-02692,Abu Dhabi,Diabetes,37126
+MBR-02693,Dubai,Hypertension,17942
+MBR-02694,Dubai,Diabetes + Cardiac,64661
+MBR-02695,Abu Dhabi,Hypertension,21192
+MBR-02696,Other,Cardiac,63851
+MBR-02697,Abu Dhabi,Cardiac,66666
+MBR-02698,Dubai,Hypertension,26252
+MBR-02699,Dubai,Hypertension,22923
+MBR-02700,Dubai,Diabetes + Hypertension,44933
+MBR-02701,Ajman,Diabetes + Hypertension,50178
+MBR-02702,Ajman,Diabetes + Cardiac,74513
+MBR-02703,Dubai,Hypertension,27657
+MBR-02704,Dubai,Diabetes,27651
+MBR-02705,Dubai,Diabetes + Hypertension,50037
+MBR-02706,Abu Dhabi,Hypertension,24632
+MBR-02707,Dubai,Diabetes + Cardiac,67972
+MBR-02708,Dubai,Diabetes,28419
+MBR-02709,Other,Diabetes + Cardiac,60430
+MBR-02710,Abu Dhabi,Hypertension,19802
+MBR-02711,Dubai,Diabetes,44693
+MBR-02712,Other,Hypertension,20703
+MBR-02713,Dubai,Diabetes,25904
+MBR-02714,Abu Dhabi,Cardiac,50289
+MBR-02715,Other,Cardiac,54365
+MBR-02716,Ajman,Hypertension,24271
+MBR-02717,Dubai,Hypertension,29869
+MBR-02718,Dubai,Diabetes,27237
+MBR-02719,Abu Dhabi,Diabetes,19976
+MBR-02720,Dubai,Diabetes,39332
+MBR-02721,Dubai,Diabetes + Cardiac,80536
+MBR-02722,Dubai,Cardiac,53323
+MBR-02723,Dubai,Diabetes,24307
+MBR-02724,Dubai,Diabetes,26702
+MBR-02725,Dubai,Diabetes,37969
+MBR-02726,Abu Dhabi,Diabetes + Cardiac,93553
+MBR-02727,Dubai,Hypertension,22501
+MBR-02728,Other,Diabetes,34701
+MBR-02729,Dubai,Hypertension,28339
+MBR-02730,Dubai,Hypertension,24730
+MBR-02731,Other,Hypertension,15561
+MBR-02732,Dubai,Hypertension,23243
+MBR-02733,Dubai,Cardiac,77183
+MBR-02734,Dubai,Diabetes + Hypertension,47383
+MBR-02735,Dubai,Hypertension,27267
+MBR-02736,Abu Dhabi,Diabetes + Hypertension,42917
+MBR-02737,Dubai,Cardiac,40545
+MBR-02738,Dubai,Cardiac,65529
+MBR-02739,Dubai,Hypertension,23051
+MBR-02740,Abu Dhabi,Hypertension,23651
+MBR-02741,Abu Dhabi,Diabetes,36961
+MBR-02742,Dubai,Hypertension,27343
+MBR-02743,Dubai,Hypertension,19055
+MBR-02744,Dubai,Cardiac,50143
+MBR-02745,Abu Dhabi,Diabetes + Hypertension,42189
+MBR-02746,Abu Dhabi,Hypertension,25228
+MBR-02747,Abu Dhabi,Diabetes + Cardiac,62852
+MBR-02748,Dubai,Diabetes,33727
+MBR-02749,Other,Diabetes,32717
+MBR-02750,Abu Dhabi,Diabetes,26040
+MBR-02751,Abu Dhabi,Diabetes,28567
+MBR-02752,Dubai,Diabetes + Hypertension,55923
+MBR-02753,Ajman,Diabetes + Hypertension,59642
+MBR-02754,Abu Dhabi,Diabetes + Hypertension,43855
+MBR-02755,Ajman,Cardiac,55899
+MBR-02756,Dubai,Diabetes,31770
+MBR-02757,Abu Dhabi,Hypertension,18463
+MBR-02758,Dubai,Hypertension,18392
+MBR-02759,Other,Diabetes,30828
+MBR-02760,Dubai,Diabetes,32137
+MBR-02761,Abu Dhabi,Diabetes + Cardiac,84195
+MBR-02762,Abu Dhabi,Diabetes + Hypertension,46384
+MBR-02763,Dubai,Hypertension,18176
+MBR-02764,Dubai,Diabetes + Hypertension,50309
+MBR-02765,Dubai,Diabetes,25655
+MBR-02766,Abu Dhabi,Diabetes,28218
+MBR-02767,Dubai,Diabetes,26824
+MBR-02768,Dubai,Hypertension,16642
+MBR-02769,Other,Diabetes,39496
+MBR-02770,Abu Dhabi,Diabetes,32678
+MBR-02771,Dubai,Diabetes + Cardiac,53567
+MBR-02772,Dubai,Cardiac,50803
+MBR-02773,Other,Cardiac,60413
+MBR-02774,Abu Dhabi,Cardiac,67234
+MBR-02775,Dubai,Hypertension,23929
+MBR-02776,Abu Dhabi,Diabetes + Hypertension,49756
+MBR-02777,Abu Dhabi,Cardiac,51329
+MBR-02778,Ajman,Diabetes,28910
+MBR-02779,Abu Dhabi,Hypertension,22147
+MBR-02780,Abu Dhabi,Hypertension,21473
+MBR-02781,Dubai,Hypertension,17082
+MBR-02782,Ajman,Diabetes,20725
+MBR-02783,Dubai,Diabetes,35286
+MBR-02784,Dubai,Cardiac,57369
+MBR-02785,Other,Diabetes + Cardiac,56174
+MBR-02786,Dubai,Hypertension,16015
+MBR-02787,Other,Diabetes + Cardiac,66229
+MBR-02788,Ajman,Diabetes + Hypertension,54800
+MBR-02789,Abu Dhabi,Diabetes + Cardiac,85304
+MBR-02790,Dubai,Diabetes + Hypertension,51783
+MBR-02791,Other,Diabetes,33405
+MBR-02792,Abu Dhabi,Diabetes,29435
+MBR-02793,Dubai,Diabetes,23271
+MBR-02794,Dubai,Cardiac,50475
+MBR-02795,Other,Diabetes,33933
+MBR-02796,Other,Cardiac,55180
+MBR-02797,Abu Dhabi,Diabetes + Cardiac,89546
+MBR-02798,Dubai,Diabetes,33061
+MBR-02799,Dubai,Hypertension,30139
+MBR-02800,Dubai,Hypertension,21744
+MBR-02801,Abu Dhabi,Diabetes + Cardiac,86113
+MBR-02802,Abu Dhabi,Diabetes,29430
+MBR-02803,Abu Dhabi,Cardiac,64230
+MBR-02804,Other,Diabetes,25800
+MBR-02805,Other,Cardiac,51414
+MBR-02806,Ajman,Hypertension,23990
+MBR-02807,Abu Dhabi,Hypertension,21299
+MBR-02808,Other,Diabetes,28532
+MBR-02809,Dubai,Diabetes + Cardiac,87229
+MBR-02810,Other,Hypertension,24021
+MBR-02811,Dubai,Diabetes + Hypertension,38856
+MBR-02812,Other,Diabetes,39528
+MBR-02813,Dubai,Hypertension,24324
+MBR-02814,Dubai,Diabetes,32986
+MBR-02815,Abu Dhabi,Hypertension,19827
+MBR-02816,Dubai,Diabetes,24934
+MBR-02817,Ajman,Diabetes + Hypertension,62045
+MBR-02818,Ajman,Cardiac,59664
+MBR-02819,Dubai,Hypertension,9865
+MBR-02820,Abu Dhabi,Hypertension,24564
+MBR-02821,Abu Dhabi,Cardiac,62281
+MBR-02822,Abu Dhabi,Diabetes + Hypertension,44508
+MBR-02823,Dubai,Diabetes + Cardiac,61048
+MBR-02824,Abu Dhabi,Hypertension,22711
+MBR-02825,Dubai,Diabetes,38790
+MBR-02826,Abu Dhabi,Hypertension,21861
+MBR-02827,Abu Dhabi,Cardiac,44590
+MBR-02828,Other,Diabetes,27731
+MBR-02829,Other,Diabetes + Cardiac,61145
+MBR-02830,Dubai,Hypertension,16470
+MBR-02831,Abu Dhabi,Diabetes,32123
+MBR-02832,Abu Dhabi,Hypertension,23075
+MBR-02833,Ajman,Diabetes,39377
+MBR-02834,Other,Diabetes,25745
+MBR-02835,Dubai,Hypertension,16127
+MBR-02836,Other,Diabetes + Cardiac,80480
+MBR-02837,Abu Dhabi,Hypertension,14637
+MBR-02838,Abu Dhabi,Diabetes + Hypertension,49828
+MBR-02839,Abu Dhabi,Cardiac,44124
+MBR-02840,Dubai,Hypertension,26658
+MBR-02841,Dubai,Diabetes,23372
+MBR-02842,Other,Cardiac,79366
+MBR-02843,Dubai,Diabetes + Cardiac,89697
+MBR-02844,Abu Dhabi,Diabetes,30046
+MBR-02845,Abu Dhabi,Diabetes,32569
+MBR-02846,Dubai,Diabetes + Hypertension,43411
+MBR-02847,Other,Cardiac,51169
+MBR-02848,Abu Dhabi,Cardiac,48364
+MBR-02849,Other,Hypertension,22453
+MBR-02850,Abu Dhabi,Diabetes + Cardiac,79568
+MBR-02851,Dubai,Hypertension,21538
+MBR-02852,Abu Dhabi,Diabetes,30346
+MBR-02853,Dubai,Diabetes + Hypertension,42285
+MBR-02854,Abu Dhabi,Diabetes + Hypertension,69706
+MBR-02855,Other,Diabetes,36607
+MBR-02856,Ajman,Diabetes,26543
+MBR-02857,Dubai,Diabetes,29803
+MBR-02858,Other,Hypertension,15321
+MBR-02859,Dubai,Cardiac,67540
+MBR-02860,Abu Dhabi,Diabetes,29516
+MBR-02861,Dubai,Diabetes + Cardiac,82450
+MBR-02862,Abu Dhabi,Cardiac,50916
+MBR-02863,Dubai,Hypertension,26966
+MBR-02864,Abu Dhabi,Cardiac,56041
+MBR-02865,Dubai,Diabetes,36610
+MBR-02866,Abu Dhabi,Diabetes + Hypertension,44470
+MBR-02867,Other,Diabetes,23005
+MBR-02868,Abu Dhabi,Hypertension,23772
+MBR-02869,Dubai,Diabetes + Cardiac,68072
+MBR-02870,Abu Dhabi,Diabetes,39140
+MBR-02871,Dubai,Hypertension,23310
+MBR-02872,Other,Hypertension,12372
+MBR-02873,Abu Dhabi,Hypertension,19841
+MBR-02874,Abu Dhabi,Cardiac,52812
+MBR-02875,Dubai,Diabetes,26686
+MBR-02876,Dubai,Diabetes + Cardiac,51449
+MBR-02877,Abu Dhabi,Hypertension,19915
+MBR-02878,Abu Dhabi,Diabetes + Cardiac,61099
+MBR-02879,Abu Dhabi,Hypertension,15823
+MBR-02880,Other,Diabetes + Cardiac,58587
+MBR-02881,Dubai,Diabetes,36616
+MBR-02882,Abu Dhabi,Diabetes,25750
+MBR-02883,Other,Diabetes,36696
+MBR-02884,Abu Dhabi,Diabetes,39007
+MBR-02885,Abu Dhabi,Diabetes,35603
+MBR-02886,Dubai,Cardiac,48269
+MBR-02887,Abu Dhabi,Diabetes,43883
+MBR-02888,Abu Dhabi,Cardiac,51579
+MBR-02889,Ajman,Diabetes,34128
+MBR-02890,Dubai,Cardiac,69249
+MBR-02891,Abu Dhabi,Hypertension,26579
+MBR-02892,Dubai,Diabetes,33337
+MBR-02893,Abu Dhabi,Diabetes + Hypertension,52082
+MBR-02894,Other,Hypertension,13333
+MBR-02895,Abu Dhabi,Hypertension,16704
+MBR-02896,Abu Dhabi,Diabetes,29974
+MBR-02897,Other,Diabetes,24622
+MBR-02898,Other,Hypertension,22497
+MBR-02899,Dubai,Diabetes + Cardiac,51764
+MBR-02900,Abu Dhabi,Hypertension,20761
+MBR-02901,Ajman,Cardiac,66775
+MBR-02902,Abu Dhabi,Diabetes + Cardiac,69639
+MBR-02903,Other,Diabetes + Cardiac,70223
+MBR-02904,Dubai,Hypertension,20165
+MBR-02905,Other,Diabetes,40477
+MBR-02906,Dubai,Hypertension,20062
+MBR-02907,Other,Hypertension,21368
+MBR-02908,Dubai,Hypertension,24945
+MBR-02909,Dubai,Diabetes + Cardiac,76170
+MBR-02910,Abu Dhabi,Diabetes,37102
+MBR-02911,Other,Diabetes + Cardiac,65808
+MBR-02912,Dubai,Hypertension,15775
+MBR-02913,Ajman,Hypertension,22341
+MBR-02914,Dubai,Diabetes + Hypertension,51738
+MBR-02915,Dubai,Hypertension,24634
+MBR-02916,Abu Dhabi,Hypertension,19551
+MBR-02917,Ajman,Diabetes,32529
+MBR-02918,Abu Dhabi,Hypertension,16825
+MBR-02919,Abu Dhabi,Hypertension,24997
+MBR-02920,Other,Cardiac,60055
+MBR-02921,Abu Dhabi,Diabetes + Hypertension,59966
+MBR-02922,Dubai,Cardiac,48766
+MBR-02923,Abu Dhabi,Cardiac,74754
+MBR-02924,Abu Dhabi,Hypertension,19351
+MBR-02925,Dubai,Diabetes + Hypertension,43048
+MBR-02926,Other,Diabetes + Cardiac,60990
+MBR-02927,Dubai,Diabetes,42645
+MBR-02928,Dubai,Diabetes,27782
+MBR-02929,Abu Dhabi,Diabetes,35277
+MBR-02930,Abu Dhabi,Hypertension,18105
+MBR-02931,Dubai,Diabetes + Hypertension,46417
+MBR-02932,Dubai,Hypertension,20446
+MBR-02933,Dubai,Cardiac,68900
+MBR-02934,Dubai,Diabetes + Cardiac,68522
+MBR-02935,Dubai,Diabetes,30719
+MBR-02936,Other,Hypertension,27438
+MBR-02937,Abu Dhabi,Hypertension,23162
+MBR-02938,Abu Dhabi,Diabetes,30695
+MBR-02939,Abu Dhabi,Cardiac,69773
+MBR-02940,Dubai,Diabetes + Hypertension,54427
+MBR-02941,Other,Cardiac,66084
+MBR-02942,Other,Hypertension,25351
+MBR-02943,Other,Diabetes + Hypertension,41830
+MBR-02944,Abu Dhabi,Hypertension,18290
+MBR-02945,Ajman,Diabetes + Cardiac,51789
+MBR-02946,Other,Diabetes + Hypertension,39144
+MBR-02947,Dubai,Diabetes,34402
+MBR-02948,Other,Diabetes + Cardiac,66530
+MBR-02949,Abu Dhabi,Diabetes,38801
+MBR-02950,Dubai,Diabetes,30941
+MBR-02951,Abu Dhabi,Hypertension,17030
+MBR-02952,Other,Diabetes,31153
+MBR-02953,Dubai,Diabetes + Cardiac,62122
+MBR-02954,Dubai,Diabetes + Hypertension,45356
+MBR-02955,Abu Dhabi,Hypertension,23344
+MBR-02956,Dubai,Diabetes,32328
+MBR-02957,Abu Dhabi,Diabetes + Hypertension,38229
+MBR-02958,Dubai,Diabetes + Cardiac,86175
+MBR-02959,Dubai,Diabetes + Hypertension,59030
+MBR-02960,Abu Dhabi,Cardiac,52108
+MBR-02961,Other,Diabetes + Hypertension,43174
+MBR-02962,Dubai,Diabetes,31461
+MBR-02963,Dubai,Diabetes,30520
+MBR-02964,Abu Dhabi,Diabetes,26248
+MBR-02965,Abu Dhabi,Cardiac,54368
+MBR-02966,Ajman,Diabetes + Cardiac,67828
+MBR-02967,Abu Dhabi,Hypertension,13386
+MBR-02968,Dubai,Cardiac,65565
+MBR-02969,Other,Diabetes,34971
+MBR-02970,Abu Dhabi,Diabetes + Hypertension,36573
+MBR-02971,Abu Dhabi,Diabetes + Hypertension,53196
+MBR-02972,Abu Dhabi,Cardiac,64056
+MBR-02973,Dubai,Diabetes + Hypertension,38537
+MBR-02974,Dubai,Hypertension,28146
+MBR-02975,Abu Dhabi,Diabetes + Hypertension,38910
+MBR-02976,Abu Dhabi,Diabetes + Hypertension,40807
+MBR-02977,Other,Diabetes + Hypertension,62457
+MBR-02978,Dubai,Diabetes + Cardiac,59034
+MBR-02979,Other,Diabetes,19694
+MBR-02980,Dubai,Diabetes,22359
+MBR-02981,Abu Dhabi,Diabetes,37565
+MBR-02982,Dubai,Cardiac,65107
+MBR-02983,Other,Hypertension,18118
+MBR-02984,Dubai,Hypertension,21784
+MBR-02985,Abu Dhabi,Hypertension,26199
+MBR-02986,Dubai,Diabetes + Hypertension,49373
+MBR-02987,Abu Dhabi,Diabetes + Hypertension,38904
+MBR-02988,Abu Dhabi,Hypertension,25821
+MBR-02989,Dubai,Diabetes + Cardiac,65491
+MBR-02990,Abu Dhabi,Diabetes + Cardiac,89182
+MBR-02991,Abu Dhabi,Diabetes + Cardiac,65044
+MBR-02992,Other,Diabetes + Cardiac,67679
+MBR-02993,Abu Dhabi,Hypertension,21516
+MBR-02994,Dubai,Diabetes,33985
+MBR-02995,Dubai,Hypertension,19554
+MBR-02996,Abu Dhabi,Cardiac,51391
+MBR-02997,Ajman,Hypertension,24166
+MBR-02998,Other,Diabetes + Hypertension,52649
+MBR-02999,Ajman,Diabetes + Hypertension,39066
